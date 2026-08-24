@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 22 22">
+  <!-- Equal overhangs keep the lighter T optically balanced. -->
+  <path fill="#ececec" d="M2.2 2.2h11v2.3H8.9v13.7H6.5V4.5H2.2Z"/>
+
+  <!-- One continuous cubic stroke gives the 3 a loose handwritten flow. -->
+  <path fill="none" stroke="#ececec" stroke-width="1.8"
+        stroke-linecap="round" stroke-linejoin="round"
+        d="M13.1 7.6c1.4-1.5 4.3-1.5 5.1.1.7 1.5-.7 2.8-2.8 3.1 2.6-.1 4.1 1.4 3.5 3.7-.7 3.4-4.1 4.7-6.2 4.2"/>
+</svg>
