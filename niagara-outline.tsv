@@ -1,0 +1,1035 @@
+resource	file	alias_target
+ic_ip_act_add	actions/16/add-niagara-outline.svg	
+ic_ip_act_alert	actions/16/alert-niagara-outline.svg	
+ic_ip_act_alphabet	actions/16/alphabet-niagara-outline.svg	
+ic_ip_act_anycon	actions/16/anycon-niagara-outline.svg	
+ic_ip_act_anycons_axolotl	actions/16/anycons-axolotl-niagara-outline.svg	
+ic_ip_act_anycons_chameleon	actions/16/anycons-chameleon-niagara-outline.svg	
+ic_ip_act_anycons_gargoyle	actions/16/anycons-gargoyle-niagara-outline.svg	
+ic_ip_act_anycons_koi	actions/16/anycons-koi-niagara-outline.svg	
+ic_ip_act_anycons_lemur	actions/16/anycons-lemur-niagara-outline.svg	
+ic_ip_act_anycons_owl	actions/16/anycons-owl-niagara-outline.svg	
+ic_ip_act_arrow_back	actions/16/arrow-back-niagara-outline.svg	
+ic_ip_act_arrow_right	actions/16/arrow-right-niagara-outline.svg	
+ic_ip_act_arrow_swap	actions/16/arrow-swap-niagara-outline.svg	
+ic_ip_act_arrow_upward	actions/16/arrow-upward-niagara-outline.svg	
+ic_ip_act_arrows_horizontal	actions/16/arrows-horizontal-niagara-outline.svg	
+ic_ip_act_arrows_vertical	actions/16/arrows-vertical-niagara-outline.svg	
+ic_ip_act_autorenew	actions/16/autorenew-niagara-outline.svg	
+ic_ip_act_autorotate	actions/16/autorotate-niagara-outline.svg	
+ic_ip_act_battery_high	actions/16/battery-high-niagara-outline.svg	
+ic_ip_act_beanie	actions/16/beanie-niagara-outline.svg	
+ic_ip_act_bell	actions/16/bell-niagara-outline.svg	
+ic_ip_act_bell_off	actions/16/bell-off-niagara-outline.svg	
+ic_ip_act_briefcase	actions/16/briefcase-niagara-outline.svg	
+ic_ip_act_brush	actions/16/brush-niagara-outline.svg	
+ic_ip_act_bug	actions/16/bug-niagara-outline.svg	
+ic_ip_act_butterfly	actions/16/butterfly-niagara-outline.svg	
+ic_ip_act_calendar	actions/16/calendar-niagara-outline.svg	
+ic_ip_act_category	actions/16/category-niagara-outline.svg	
+ic_ip_act_check_circle	actions/16/check-circle-niagara-outline.svg	
+ic_ip_act_circle	actions/16/circle-niagara-outline.svg	
+ic_ip_act_circle_dashed	actions/16/circle-dashed-niagara-outline.svg	
+ic_ip_act_circle_small	actions/16/circle-small-niagara-outline.svg	
+ic_ip_act_clean_up	actions/16/clean-up-niagara-outline.svg	
+ic_ip_act_clear	actions/16/clear-niagara-outline.svg	
+ic_ip_act_clock	actions/16/clock-niagara-outline.svg	
+ic_ip_act_coin	actions/16/coin-niagara-outline.svg	
+ic_ip_act_color_palette	actions/16/color-palette-niagara-outline.svg	
+ic_ip_act_copy	actions/16/copy-niagara-outline.svg	
+ic_ip_act_credit_card	actions/16/credit-card-niagara-outline.svg	
+ic_ip_act_crop	actions/16/crop-niagara-outline.svg	
+ic_ip_act_cup	actions/16/cup-niagara-outline.svg	
+ic_ip_act_dark_theme	actions/16/dark-theme-niagara-outline.svg	
+ic_ip_act_dashed_squircle	actions/16/dashed-squircle-niagara-outline.svg	
+ic_ip_act_data_saver_on	actions/16/data-saver-on-niagara-outline.svg	
+ic_ip_act_delete	actions/16/delete-niagara-outline.svg	
+ic_ip_act_diamond_small	actions/16/diamond-small-niagara-outline.svg	
+ic_ip_act_done	actions/16/done-niagara-outline.svg	
+ic_ip_act_dots_three	actions/16/dots-three-niagara-outline.svg	
+ic_ip_act_dots_three_vertical	actions/16/dots-three-vertical-niagara-outline.svg	
+ic_ip_act_double_arrow_horizontal	actions/16/double-arrow-horizontal-niagara-outline.svg	
+ic_ip_act_download	actions/16/download-niagara-outline.svg	
+ic_ip_act_drag_indicator	actions/16/drag-indicator-niagara-outline.svg	
+ic_ip_act_edit	actions/16/edit-niagara-outline.svg	
+ic_ip_act_event	actions/16/event-niagara-outline.svg	
+ic_ip_act_expand_less	actions/16/expand-less-niagara-outline.svg	
+ic_ip_act_expand_more	actions/16/expand-more-niagara-outline.svg	
+ic_ip_act_eye	actions/16/eye-niagara-outline.svg	
+ic_ip_act_eye_crossed	actions/16/eye-crossed-niagara-outline.svg	
+ic_ip_act_file	actions/16/file-niagara-outline.svg	
+ic_ip_act_filter	actions/16/filter-niagara-outline.svg	
+ic_ip_act_fireworks	actions/16/fireworks-niagara-outline.svg	
+ic_ip_act_flash	actions/16/flash-niagara-outline.svg	
+ic_ip_act_flash_small_and_narrow	actions/16/flash-small-and-narrow-niagara-outline.svg	
+ic_ip_act_flashlight	actions/16/flashlight-niagara-outline.svg	
+ic_ip_act_floppy_disk	actions/16/floppy-disk-niagara-outline.svg	
+ic_ip_act_foldable_device	actions/16/foldable-device-niagara-outline.svg	
+ic_ip_act_folder	actions/16/folder-niagara-outline.svg	
+ic_ip_act_folder_create	actions/16/folder-create-niagara-outline.svg	
+ic_ip_act_font	actions/16/font-niagara-outline.svg	
+ic_ip_act_gesture_swipe_up	actions/16/gesture-swipe-up-niagara-outline.svg	
+ic_ip_act_gesture_tap	actions/16/gesture-tap-niagara-outline.svg	
+ic_ip_act_globe	actions/16/globe-niagara-outline.svg	
+ic_ip_act_hand_waving	actions/16/hand-waving-niagara-outline.svg	
+ic_ip_act_heart	actions/16/heart-niagara-outline.svg	
+ic_ip_act_help	actions/16/help-niagara-outline.svg	
+ic_ip_act_home	actions/16/home-niagara-outline.svg	
+ic_ip_act_hourglass	actions/16/hourglass-niagara-outline.svg	
+ic_ip_act_ic_fluent_gift	actions/16/ic-fluent-gift-niagara-outline.svg	
+ic_ip_act_icons_dashed_squircle	actions/16/icons-dashed-squircle-niagara-outline.svg	
+ic_ip_act_inbox	actions/16/inbox-niagara-outline.svg	
+ic_ip_act_info	actions/16/info-niagara-outline.svg	
+ic_ip_act_jellyfish	actions/16/jellyfish-niagara-outline.svg	
+ic_ip_act_keyboard	actions/16/keyboard-niagara-outline.svg	
+ic_ip_act_launch	actions/16/launch-niagara-outline.svg	
+ic_ip_act_light_bulb	actions/16/light-bulb-niagara-outline.svg	
+ic_ip_act_link_diagonal	actions/16/link-diagonal-niagara-outline.svg	
+ic_ip_act_location	actions/16/location-niagara-outline.svg	
+ic_ip_act_lock	actions/16/lock-niagara-outline.svg	
+ic_ip_act_lock_open	actions/16/lock-open-niagara-outline.svg	
+ic_ip_act_lotus	actions/16/lotus-niagara-outline.svg	
+ic_ip_act_magic	actions/16/magic-niagara-outline.svg	
+ic_ip_act_mail	actions/16/mail-niagara-outline.svg	
+ic_ip_act_message	actions/16/message-niagara-outline.svg	
+ic_ip_act_money_off	actions/16/money-off-niagara-outline.svg	
+ic_ip_act_niagara_button	actions/16/niagara-button-niagara-outline.svg	
+ic_ip_act_niagara_pro	actions/16/niagara-pro-niagara-outline.svg	
+ic_ip_act_no_internet_connection	actions/16/no-internet-connection-niagara-outline.svg	
+ic_ip_act_notification_dismiss	actions/16/notification-dismiss-niagara-outline.svg	
+ic_ip_act_organization	actions/16/organization-niagara-outline.svg	
+ic_ip_act_pause_circled_48	actions/16/pause-circled-48-niagara-outline.svg	
+ic_ip_act_pen_tool	actions/16/pen-tool-niagara-outline.svg	
+ic_ip_act_play_circled_48	actions/16/play-circled-48-niagara-outline.svg	
+ic_ip_act_plus_circle	actions/16/plus-circle-niagara-outline.svg	
+ic_ip_act_pop_up	actions/16/pop-up-niagara-outline.svg	
+ic_ip_act_pop_up_small	actions/16/pop-up-small-niagara-outline.svg	
+ic_ip_act_popcorn	actions/16/popcorn-niagara-outline.svg	
+ic_ip_act_power_settings	actions/16/power-settings-niagara-outline.svg	
+ic_ip_act_presentation	actions/16/presentation-niagara-outline.svg	
+ic_ip_act_prohibit	actions/16/prohibit-niagara-outline.svg	
+ic_ip_act_recently_installed	actions/16/recently-installed-niagara-outline.svg	
+ic_ip_act_replay	actions/16/replay-niagara-outline.svg	
+ic_ip_act_rounded_rectangle	actions/16/rounded-rectangle-niagara-outline.svg	
+ic_ip_act_ruler	actions/16/ruler-niagara-outline.svg	
+ic_ip_act_sapling	actions/16/sapling-niagara-outline.svg	
+ic_ip_act_scale	actions/16/scale-niagara-outline.svg	
+ic_ip_act_screenshot	actions/16/screenshot-niagara-outline.svg	
+ic_ip_act_search	actions/16/search-niagara-outline.svg	
+ic_ip_act_send	actions/16/send-niagara-outline.svg	
+ic_ip_act_sentiment_dissatisfied	actions/16/sentiment-dissatisfied-niagara-outline.svg	
+ic_ip_act_sentiment_neutral	actions/16/sentiment-neutral-niagara-outline.svg	
+ic_ip_act_sentiment_satisfied	actions/16/sentiment-satisfied-niagara-outline.svg	
+ic_ip_act_sentiment_slightly_dissatisfied	actions/16/sentiment-slightly-dissatisfied-niagara-outline.svg	
+ic_ip_act_sentiment_slightly_satisfied	actions/16/sentiment-slightly-satisfied-niagara-outline.svg	
+ic_ip_act_sentiment_very_dissatisfied	actions/16/sentiment-very-dissatisfied-niagara-outline.svg	
+ic_ip_act_sentiment_very_satisfied	actions/16/sentiment-very-satisfied-niagara-outline.svg	
+ic_ip_act_settings	actions/16/settings-niagara-outline.svg	
+ic_ip_act_settings_private_space	actions/16/settings-private-space-niagara-outline.svg	
+ic_ip_act_share	actions/16/share-niagara-outline.svg	
+ic_ip_act_shield	actions/16/shield-niagara-outline.svg	
+ic_ip_act_sign_out	actions/16/sign-out-niagara-outline.svg	
+ic_ip_act_skip_next	actions/16/skip-next-niagara-outline.svg	
+ic_ip_act_slash	actions/16/slash-niagara-outline.svg	
+ic_ip_act_sliders	actions/16/sliders-niagara-outline.svg	
+ic_ip_act_smartphone	actions/16/smartphone-niagara-outline.svg	
+ic_ip_act_smiley	actions/16/smiley-niagara-outline.svg	
+ic_ip_act_snooze	actions/16/snooze-niagara-outline.svg	
+ic_ip_act_snowflake	actions/16/snowflake-niagara-outline.svg	
+ic_ip_act_squircle	actions/16/squircle-niagara-outline.svg	
+ic_ip_act_star	actions/16/star-niagara-outline.svg	
+ic_ip_act_star_small	actions/16/star-small-niagara-outline.svg	
+ic_ip_act_suggestion	actions/16/suggestion-niagara-outline.svg	
+ic_ip_act_sun	actions/16/sun-niagara-outline.svg	
+ic_ip_act_sun_horizon	actions/16/sun-horizon-niagara-outline.svg	
+ic_ip_act_sunglasses	actions/16/sunglasses-niagara-outline.svg	
+ic_ip_act_survey	actions/16/survey-niagara-outline.svg	
+ic_ip_act_swap_vert	actions/16/swap-vert-niagara-outline.svg	
+ic_ip_act_switch_off	actions/16/switch-off-niagara-outline.svg	
+ic_ip_act_switch_on	actions/16/switch-on-niagara-outline.svg	
+ic_ip_act_timer	actions/16/timer-niagara-outline.svg	
+ic_ip_act_translate	actions/16/translate-niagara-outline.svg	
+ic_ip_act_travel_explore	actions/16/travel-explore-niagara-outline.svg	
+ic_ip_act_trending_up	actions/16/trending-up-niagara-outline.svg	
+ic_ip_act_tulip	actions/16/tulip-niagara-outline.svg	
+ic_ip_act_twelve	actions/16/twelve-niagara-outline.svg	
+ic_ip_act_two_colums	actions/16/two-colums-niagara-outline.svg	
+ic_ip_act_unfold_more	actions/16/unfold-more-niagara-outline.svg	
+ic_ip_act_unknown_app	actions/16/unknown-app-niagara-outline.svg	
+ic_ip_act_update	actions/16/update-niagara-outline.svg	
+ic_ip_act_urgent_message	actions/16/urgent-message-niagara-outline.svg	
+ic_ip_act_user_circled	actions/16/user-circled-niagara-outline.svg	
+ic_ip_act_vibrate	actions/16/vibrate-niagara-outline.svg	
+ic_ip_act_volunteer_activism	actions/16/volunteer-activism-niagara-outline.svg	
+ic_ip_act_wallpaper	actions/16/wallpaper-niagara-outline.svg	
+ic_ip_act_weather_clear	status/16/weather-clear-niagara-outline.svg	
+ic_ip_act_weather_clear_night	status/16/weather-clear-night-niagara-outline.svg	
+ic_ip_act_weather_cloudy_1_few	status/16/weather-cloudy-1-few-niagara-outline.svg	
+ic_ip_act_weather_cloudy_1_few_night	status/16/weather-cloudy-1-few-night-niagara-outline.svg	
+ic_ip_act_weather_cloudy_3_broken	status/16/weather-cloudy-3-broken-niagara-outline.svg	
+ic_ip_act_weather_cloudy_3_broken_night	status/16/weather-cloudy-3-broken-night-niagara-outline.svg	
+ic_ip_act_weather_cloudy_4_overcast	status/16/weather-cloudy-4-overcast-niagara-outline.svg	
+ic_ip_act_weather_fog	status/16/weather-fog-niagara-outline.svg	
+ic_ip_act_weather_rain_1_light	status/16/weather-rain-1-light-niagara-outline.svg	
+ic_ip_act_weather_rain_2_moderate	status/16/weather-rain-2-moderate-niagara-outline.svg	
+ic_ip_act_weather_rain_3_heavy	status/16/weather-rain-3-heavy-niagara-outline.svg	
+ic_ip_act_weather_sleet	status/16/weather-sleet-niagara-outline.svg	
+ic_ip_act_weather_snow	status/16/weather-snow-niagara-outline.svg	
+ic_ip_act_weather_thunderstorm	status/16/weather-thunderstorm-niagara-outline.svg	
+ic_ip_act_weather_windy	status/16/weather-windy-niagara-outline.svg	
+ic_ip_act_wide_brush	actions/16/wide-brush-niagara-outline.svg	
+ic_ip_act_widget	actions/16/widget-niagara-outline.svg	
+ic_ip_act_widget_crossed	actions/16/widget-crossed-niagara-outline.svg	
+ic_ip_act_widget_stack	actions/16/widget-stack-niagara-outline.svg	
+ic_ip_act_wrench	actions/16/wrench-niagara-outline.svg	
+ic_ip_app_ai_muditalabs	apps/16/ai-muditalabs-niagara-outline.svg	
+ic_ip_app_ai_perplexity_app_android	apps/16/ai-perplexity-app-android-niagara-outline.svg	
+ic_ip_app_ai_x_grok	apps/16/ai-x-grok-niagara-outline.svg	
+ic_ip_app_android_apps_wellbeing	apps/16/android-apps-wellbeing-niagara-outline.svg	
+ic_ip_app_app_alextran_immich	apps/16/app-alextran-immich-niagara-outline.svg	
+ic_ip_app_app_mihon	apps/16/app-mihon-niagara-outline.svg	
+ic_ip_app_app_morphe_manager	apps/16/app-morphe-manager-niagara-outline.svg	
+ic_ip_app_au_com_shiftyjelly_pocketcasts	apps/16/au-com-shiftyjelly-pocketcasts-niagara-outline.svg	
+ic_ip_app_bitpit_launcher	apps/16/bitpit-launcher-niagara-outline.svg	
+ic_ip_app_br_com_brainweb_ifood	apps/16/br-com-brainweb-ifood-niagara-outline.svg	
+ic_ip_app_canvasm_myo2	apps/16/canvasm-myo2-niagara-outline.svg	
+ic_ip_app_cc_forestapp	apps/16/cc-forestapp-niagara-outline.svg	
+ic_ip_app_ch_protonmail_android	apps/16/ch-protonmail-android-niagara-outline.svg	
+ic_ip_app_ch_protonvpn_android	apps/16/ch-protonvpn-android-niagara-outline.svg	
+ic_ip_app_ch_threema_app	apps/16/ch-threema-app-niagara-outline.svg	
+ic_ip_app_cn_wps_moffice_eng	apps/16/cn-wps-moffice-eng-niagara-outline.svg	
+ic_ip_app_co_hinge_app	apps/16/co-hinge-app-niagara-outline.svg	
+ic_ip_app_co_mona_android	apps/16/co-mona-android-niagara-outline.svg	
+ic_ip_app_co_uk_getmondo	apps/16/co-uk-getmondo-niagara-outline.svg	
+ic_ip_app_com_activision_callofduty_shooter	apps/16/com-activision-callofduty-shooter-niagara-outline.svg	
+ic_ip_app_com_adobe_lrmobile	apps/16/com-adobe-lrmobile-niagara-outline.svg	
+ic_ip_app_com_adobe_reader	apps/16/com-adobe-reader-niagara-outline.svg	
+ic_ip_app_com_adobe_scan_android	apps/16/com-adobe-scan-android-niagara-outline.svg	
+ic_ip_app_com_airbnb_android	apps/16/com-airbnb-android-niagara-outline.svg	
+ic_ip_app_com_alibaba_aliexpresshd	apps/16/com-alibaba-aliexpresshd-niagara-outline.svg	
+ic_ip_app_com_alltrails_alltrails	apps/16/com-alltrails-alltrails-niagara-outline.svg	
+ic_ip_app_com_alphainventor_filemanager	apps/16/com-alphainventor-filemanager-niagara-outline.svg	
+ic_ip_app_com_amazon_avod_thirdpartyclient	apps/16/com-amazon-avod-thirdpartyclient-niagara-outline.svg	
+ic_ip_app_com_amazon_dee_app	apps/16/com-amazon-dee-app-niagara-outline.svg	
+ic_ip_app_com_amazon_kindle	apps/16/com-amazon-kindle-niagara-outline.svg	
+ic_ip_app_com_amazon_mp3	apps/16/com-amazon-mp3-niagara-outline.svg	
+ic_ip_app_com_amazon_mshop_android_shopping	apps/16/com-amazon-mshop-android-shopping-niagara-outline.svg	
+ic_ip_app_com_americanexpress_android_acctsvcs_us	apps/16/com-americanexpress-android-acctsvcs-us-niagara-outline.svg	
+ic_ip_app_com_andrewshu_android_reddit	apps/16/com-andrewshu-android-reddit-niagara-outline.svg	
+ic_ip_app_com_andrewshu_android_redditdonation	apps/16/com-andrewshu-android-redditdonation-niagara-outline.svg	
+ic_ip_app_com_android_camera	apps/16/com-android-camera-niagara-outline.svg	
+ic_ip_app_com_android_chrome	apps/16/com-android-chrome-niagara-outline.svg	
+ic_ip_app_com_android_deskclock	apps/16/com-android-deskclock-niagara-outline.svg	
+ic_ip_app_com_android_egg	apps/16/com-android-egg-niagara-outline.svg	
+ic_ip_app_com_android_mms	apps/16/com-android-mms-niagara-outline.svg	
+ic_ip_app_com_android_soundrecorder	apps/16/com-android-soundrecorder-niagara-outline.svg	
+ic_ip_app_com_android_stk	apps/16/com-android-stk-niagara-outline.svg	
+ic_ip_app_com_android_thememanager	apps/16/com-android-thememanager-niagara-outline.svg	
+ic_ip_app_com_android_vending	apps/16/com-android-vending-niagara-outline.svg	
+ic_ip_app_com_anthropic_claude	apps/16/com-anthropic-claude-niagara-outline.svg	
+ic_ip_app_com_app_tgtg	apps/16/com-app-tgtg-niagara-outline.svg	
+ic_ip_app_com_apple_android_music	apps/16/com-apple-android-music-niagara-outline.svg	
+ic_ip_app_com_apple_atve_androidtv_appletv	apps/16/com-apple-atve-androidtv-appletv-niagara-outline.svg	
+ic_ip_app_com_application_zomato	apps/16/com-application-zomato-niagara-outline.svg	
+ic_ip_app_com_application_zomato_district	apps/16/com-application-zomato-district-niagara-outline.svg	
+ic_ip_app_com_ashwhale_sepush_eskom	apps/16/com-ashwhale-sepush-eskom-niagara-outline.svg	
+ic_ip_app_com_aspiro_tidal	apps/16/com-aspiro-tidal-niagara-outline.svg	
+ic_ip_app_com_atlassian_android_jira_core	apps/16/com-atlassian-android-jira-core-niagara-outline.svg	
+ic_ip_app_com_audible_application	apps/16/com-audible-application-niagara-outline.svg	
+ic_ip_app_com_authy_authy	apps/16/com-authy-authy-niagara-outline.svg	
+ic_ip_app_com_autonavi_minimap	apps/16/com-autonavi-minimap-niagara-outline.svg	
+ic_ip_app_com_azure_authenticator	apps/16/com-azure-authenticator-niagara-outline.svg	
+ic_ip_app_com_backdrops_wallpapers	apps/16/com-backdrops-wallpapers-niagara-outline.svg	
+ic_ip_app_com_bambuna_podcastaddict	apps/16/com-bambuna-podcastaddict-niagara-outline.svg	
+ic_ip_app_com_bandcamp_android	apps/16/com-bandcamp-android-niagara-outline.svg	
+ic_ip_app_com_beemdevelopment_aegis	apps/16/com-beemdevelopment-aegis-niagara-outline.svg	
+ic_ip_app_com_beeper_android	apps/16/com-beeper-android-niagara-outline.svg	
+ic_ip_app_com_beeper_chat	apps/16/com-beeper-chat-niagara-outline.svg	
+ic_ip_app_com_bereal_ft	apps/16/com-bereal-ft-niagara-outline.svg	
+ic_ip_app_com_bilibili_app_in	apps/16/com-bilibili-app-in-niagara-outline.svg	
+ic_ip_app_com_binance_dev	apps/16/com-binance-dev-niagara-outline.svg	
+ic_ip_app_com_blizzard_messenger	apps/16/com-blizzard-messenger-niagara-outline.svg	
+ic_ip_app_com_block_juggle	apps/16/com-block-juggle-niagara-outline.svg	
+ic_ip_app_com_booking	apps/16/com-booking-niagara-outline.svg	
+ic_ip_app_com_brave_browser	apps/16/com-brave-browser-niagara-outline.svg	
+ic_ip_app_com_bt_bms	apps/16/com-bt-bms-niagara-outline.svg	
+ic_ip_app_com_bumble_app	apps/16/com-bumble-app-niagara-outline.svg	
+ic_ip_app_com_canva_editor	apps/16/com-canva-editor-niagara-outline.svg	
+ic_ip_app_com_chase_sig_android	apps/16/com-chase-sig-android-niagara-outline.svg	
+ic_ip_app_com_chess	apps/16/com-chess-niagara-outline.svg	
+ic_ip_app_com_chrome_beta	apps/16/com-chrome-beta-niagara-outline.svg	
+ic_ip_app_com_citymapper_app_release	apps/16/com-citymapper-app-release-niagara-outline.svg	
+ic_ip_app_com_cloudflare_onedotonedotonedotone	apps/16/com-cloudflare-onedotonedotonedotone-niagara-outline.svg	
+ic_ip_app_com_coinbase_android	apps/16/com-coinbase-android-niagara-outline.svg	
+ic_ip_app_com_coloros_alarmclock	apps/16/com-coloros-alarmclock-niagara-outline.svg	
+ic_ip_app_com_coloros_calculator	apps/16/com-coloros-calculator-niagara-outline.svg	
+ic_ip_app_com_coloros_compass2	apps/16/com-coloros-compass2-niagara-outline.svg	
+ic_ip_app_com_coloros_filemanager	apps/16/com-coloros-filemanager-niagara-outline.svg	
+ic_ip_app_com_coloros_gallery3d	apps/16/com-coloros-gallery3d-niagara-outline.svg	
+ic_ip_app_com_coloros_phonemanager	apps/16/com-coloros-phonemanager-niagara-outline.svg	
+ic_ip_app_com_coloros_video	apps/16/com-coloros-video-niagara-outline.svg	
+ic_ip_app_com_coloros_weather2	apps/16/com-coloros-weather2-niagara-outline.svg	
+ic_ip_app_com_costco_app_android	apps/16/com-costco-app-android-niagara-outline.svg	
+ic_ip_app_com_crunchyroll_crunchyroid	apps/16/com-crunchyroll-crunchyroid-niagara-outline.svg	
+ic_ip_app_com_csam_icici_bank_imobile	apps/16/com-csam-icici-bank-imobile-niagara-outline.svg	
+ic_ip_app_com_dd_doordash	apps/16/com-dd-doordash-niagara-outline.svg	
+ic_ip_app_com_deepl_mobiletranslator	apps/16/com-deepl-mobiletranslator-niagara-outline.svg	
+ic_ip_app_com_deepseek_chat	apps/16/com-deepseek-chat-niagara-outline.svg	
+ic_ip_app_com_devhd_feedly	apps/16/com-devhd-feedly-niagara-outline.svg	
+ic_ip_app_com_digibites_accubattery	apps/16/com-digibites-accubattery-niagara-outline.svg	
+ic_ip_app_com_digilocker_android	apps/16/com-digilocker-android-niagara-outline.svg	
+ic_ip_app_com_discord	apps/16/com-discord-niagara-outline.svg	
+ic_ip_app_com_disney_disneyplus	apps/16/com-disney-disneyplus-niagara-outline.svg	
+ic_ip_app_com_disney_starplus	apps/16/com-disney-starplus-niagara-outline.svg	
+ic_ip_app_com_dominos	apps/16/com-dominos-niagara-outline.svg	
+ic_ip_app_com_dreamplug_androidapp	apps/16/com-dreamplug-androidapp-niagara-outline.svg	
+ic_ip_app_com_dropbox_android	apps/16/com-dropbox-android-niagara-outline.svg	
+ic_ip_app_com_duckduckgo_mobile_android	apps/16/com-duckduckgo-mobile-android-niagara-outline.svg	
+ic_ip_app_com_duokan_phone_remotecontroller	apps/16/com-duokan-phone-remotecontroller-niagara-outline.svg	
+ic_ip_app_com_duolingo	apps/16/com-duolingo-niagara-outline.svg	
+ic_ip_app_com_duosecurity_duomobile	apps/16/com-duosecurity-duomobile-niagara-outline.svg	
+ic_ip_app_com_ebay_kleinanzeigen	apps/16/com-ebay-kleinanzeigen-niagara-outline.svg	
+ic_ip_app_com_ebay_mobile	apps/16/com-ebay-mobile-niagara-outline.svg	
+ic_ip_app_com_ecosia_android	apps/16/com-ecosia-android-niagara-outline.svg	
+ic_ip_app_com_eg_android_alipaygphone	apps/16/com-eg-android-alipaygphone-niagara-outline.svg	
+ic_ip_app_com_einnovation_temu	apps/16/com-einnovation-temu-niagara-outline.svg	
+ic_ip_app_com_emn8_mobilem8_nativeapp_bk	apps/16/com-emn8-mobilem8-nativeapp-bk-niagara-outline.svg	
+ic_ip_app_com_endel_endel	apps/16/com-endel-endel-niagara-outline.svg	
+ic_ip_app_com_epicgames_fortnite	apps/16/com-epicgames-fortnite-niagara-outline.svg	
+ic_ip_app_com_espn_score_center	apps/16/com-espn-score-center-niagara-outline.svg	
+ic_ip_app_com_etsy_android	apps/16/com-etsy-android-niagara-outline.svg	
+ic_ip_app_com_evernote	apps/16/com-evernote-niagara-outline.svg	
+ic_ip_app_com_facebook_katana	apps/16/com-facebook-katana-niagara-outline.svg	
+ic_ip_app_com_facebook_lite	apps/16/com-facebook-lite-niagara-outline.svg	
+ic_ip_app_com_facebook_mlite	apps/16/com-facebook-mlite-niagara-outline.svg	
+ic_ip_app_com_facebook_orca	apps/16/com-facebook-orca-niagara-outline.svg	
+ic_ip_app_com_finalwire_aida64	apps/16/com-finalwire-aida64-niagara-outline.svg	
+ic_ip_app_com_fitbit_fitbitmobile	apps/16/com-fitbit-fitbitmobile-niagara-outline.svg	
+ic_ip_app_com_flightradar24free	apps/16/com-flightradar24free-niagara-outline.svg	
+ic_ip_app_com_flipkart_android	apps/16/com-flipkart-android-niagara-outline.svg	
+ic_ip_app_com_fluidtouch_noteshelf2	apps/16/com-fluidtouch-noteshelf2-niagara-outline.svg	
+ic_ip_app_com_flyersoft_moonreaderp	apps/16/com-flyersoft-moonreaderp-niagara-outline.svg	
+ic_ip_app_com_fsck_k9	apps/16/com-fsck-k9-niagara-outline.svg	
+ic_ip_app_com_gallery20	apps/16/com-gallery20-niagara-outline.svg	
+ic_ip_app_com_garmin_android_apps_connectmobile	apps/16/com-garmin-android-apps-connectmobile-niagara-outline.svg	
+ic_ip_app_com_github_android	apps/16/com-github-android-niagara-outline.svg	
+ic_ip_app_com_globe_gcash_android	apps/16/com-globe-gcash-android-niagara-outline.svg	
+ic_ip_app_com_goodreads	apps/16/com-goodreads-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_adm	apps/16/com-google-android-apps-adm-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_authenticator2	apps/16/com-google-android-apps-authenticator2-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_bard	apps/16/com-google-android-apps-bard-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_betterbug	apps/16/com-google-android-apps-betterbug-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_books	apps/16/com-google-android-apps-books-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_chromecast_app	apps/16/com-google-android-apps-chromecast-app-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_classroom	apps/16/com-google-android-apps-classroom-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_credentialmanager	apps/16/com-google-android-apps-credentialmanager-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_docs	apps/16/com-google-android-apps-docs-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_docs_editors_docs	apps/16/com-google-android-apps-docs-editors-docs-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_docs_editors_sheets	apps/16/com-google-android-apps-docs-editors-sheets-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_docs_editors_slides	apps/16/com-google-android-apps-docs-editors-slides-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_dynamite	apps/16/com-google-android-apps-dynamite-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_fitness	apps/16/com-google-android-apps-fitness-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_googleassistant	apps/16/com-google-android-apps-googleassistant-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_googlevoice	apps/16/com-google-android-apps-googlevoice-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_kids_familylink	apps/16/com-google-android-apps-kids-familylink-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_labs_language_tailwind	apps/16/com-google-android-apps-labs-language-tailwind-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_magazines	apps/16/com-google-android-apps-magazines-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_maps	apps/16/com-google-android-apps-maps-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_messaging	apps/16/com-google-android-apps-messaging-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_nbu_files	apps/16/com-google-android-apps-nbu-files-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_nbu_paisa_user	apps/16/com-google-android-apps-nbu-paisa-user-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_paidtasks	apps/16/com-google-android-apps-paidtasks-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_photos	apps/16/com-google-android-apps-photos-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_photos_scanner	apps/16/com-google-android-apps-photos-scanner-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_photosgo	apps/16/com-google-android-apps-photosgo-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_pixel_agent	apps/16/com-google-android-apps-pixel-agent-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_pixel_creativeassistant	apps/16/com-google-android-apps-pixel-creativeassistant-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_pixel_health	apps/16/com-google-android-apps-pixel-health-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_pixel_nowplaying	apps/16/com-google-android-apps-pixel-nowplaying-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_playconsole	apps/16/com-google-android-apps-playconsole-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_podcasts	apps/16/com-google-android-apps-podcasts-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_recorder	apps/16/com-google-android-apps-recorder-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_safetyhub	apps/16/com-google-android-apps-safetyhub-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_subscriptions_red	apps/16/com-google-android-apps-subscriptions-red-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_tachyon	apps/16/com-google-android-apps-tachyon-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_tasks	apps/16/com-google-android-apps-tasks-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_translate	apps/16/com-google-android-apps-translate-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_walletnfcrel	apps/16/com-google-android-apps-walletnfcrel-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_wallpaper	apps/16/com-google-android-apps-wallpaper-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_wear_companion	apps/16/com-google-android-apps-wear-companion-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_wearables_maestro_companion	apps/16/com-google-android-apps-wearables-maestro-companion-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_weather	apps/16/com-google-android-apps-weather-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_youtube_creator	apps/16/com-google-android-apps-youtube-creator-niagara-outline.svg	
+ic_ip_app_com_google_android_apps_youtube_music	apps/16/com-google-android-apps-youtube-music-niagara-outline.svg	
+ic_ip_app_com_google_android_calculator	apps/16/com-google-android-calculator-niagara-outline.svg	
+ic_ip_app_com_google_android_calendar	apps/16/com-google-android-calendar-niagara-outline.svg	
+ic_ip_app_com_google_android_contacts	apps/16/com-google-android-contacts-niagara-outline.svg	
+ic_ip_app_com_google_android_deskclock	apps/16/com-google-android-deskclock-niagara-outline.svg	
+ic_ip_app_com_google_android_dialer	apps/16/com-google-android-dialer-niagara-outline.svg	
+ic_ip_app_com_google_android_gm	apps/16/com-google-android-gm-niagara-outline.svg	
+ic_ip_app_com_google_android_googlecamera	apps/16/com-google-android-googlecamera-niagara-outline.svg	
+ic_ip_app_com_google_android_googlequicksearchbox	apps/16/com-google-android-googlequicksearchbox-niagara-outline.svg	
+ic_ip_app_com_google_android_inputmethod_latin	apps/16/com-google-android-inputmethod-latin-niagara-outline.svg	
+ic_ip_app_com_google_android_keep	apps/16/com-google-android-keep-niagara-outline.svg	
+ic_ip_app_com_google_android_play_games	apps/16/com-google-android-play-games-niagara-outline.svg	
+ic_ip_app_com_google_android_videos	apps/16/com-google-android-videos-niagara-outline.svg	
+ic_ip_app_com_google_android_youtube	apps/16/com-google-android-youtube-niagara-outline.svg	
+ic_ip_app_com_google_ar_lens	apps/16/com-google-ar-lens-niagara-outline.svg	
+ic_ip_app_com_google_earth	apps/16/com-google-earth-niagara-outline.svg	
+ic_ip_app_com_govee_home	apps/16/com-govee-home-niagara-outline.svg	
+ic_ip_app_com_grabtaxi_passenger	apps/16/com-grabtaxi-passenger-niagara-outline.svg	
+ic_ip_app_com_grindrapp_android	apps/16/com-grindrapp-android-niagara-outline.svg	
+ic_ip_app_com_grofers_customerapp	apps/16/com-grofers-customerapp-niagara-outline.svg	
+ic_ip_app_com_grubhub_android	apps/16/com-grubhub-android-niagara-outline.svg	
+ic_ip_app_com_hbo_hbonow	apps/16/com-hbo-hbonow-niagara-outline.svg	
+ic_ip_app_com_hdfcbank_android_now	apps/16/com-hdfcbank-android-now-niagara-outline.svg	
+ic_ip_app_com_hevy	apps/16/com-hevy-niagara-outline.svg	
+ic_ip_app_com_heytap_browser	apps/16/com-heytap-browser-niagara-outline.svg	
+ic_ip_app_com_hoyoverse_hkrpgoversea	apps/16/com-hoyoverse-hkrpgoversea-niagara-outline.svg	
+ic_ip_app_com_hp_android_printservice	apps/16/com-hp-android-printservice-niagara-outline.svg	
+ic_ip_app_com_hp_printercontrol	apps/16/com-hp-printercontrol-niagara-outline.svg	
+ic_ip_app_com_huawei_health	apps/16/com-huawei-health-niagara-outline.svg	
+ic_ip_app_com_hulu_plus	apps/16/com-hulu-plus-niagara-outline.svg	
+ic_ip_app_com_ichi2_anki	apps/16/com-ichi2-anki-niagara-outline.svg	
+ic_ip_app_com_ideashower_readitlater_pro	apps/16/com-ideashower-readitlater-pro-niagara-outline.svg	
+ic_ip_app_com_imdb_mobile	apps/16/com-imdb-mobile-niagara-outline.svg	
+ic_ip_app_com_indeed_android_jobsearch	apps/16/com-indeed-android-jobsearch-niagara-outline.svg	
+ic_ip_app_com_ing_mobile	apps/16/com-ing-mobile-niagara-outline.svg	
+ic_ip_app_com_ingka_ikea_app	apps/16/com-ingka-ikea-app-niagara-outline.svg	
+ic_ip_app_com_instagram_android	apps/16/com-instagram-android-niagara-outline.svg	
+ic_ip_app_com_instagram_barcelona	apps/16/com-instagram-barcelona-niagara-outline.svg	
+ic_ip_app_com_instagram_basel	apps/16/com-instagram-basel-niagara-outline.svg	
+ic_ip_app_com_instructure_candroid	apps/16/com-instructure-candroid-niagara-outline.svg	
+ic_ip_app_com_intsig_camscanner	apps/16/com-intsig-camscanner-niagara-outline.svg	
+ic_ip_app_com_jingdong_app_mall	apps/16/com-jingdong-app-mall-niagara-outline.svg	
+ic_ip_app_com_jio_media_ondemand	apps/16/com-jio-media-ondemand-niagara-outline.svg	
+ic_ip_app_com_jio_myjio	apps/16/com-jio-myjio-niagara-outline.svg	
+ic_ip_app_com_kagi_search	apps/16/com-kagi-search-niagara-outline.svg	
+ic_ip_app_com_kakao_talk	apps/16/com-kakao-talk-niagara-outline.svg	
+ic_ip_app_com_kayak_android	apps/16/com-kayak-android-niagara-outline.svg	
+ic_ip_app_com_kfc_us_mobile	apps/16/com-kfc-us-mobile-niagara-outline.svg	
+ic_ip_app_com_kittysplit	apps/16/com-kittysplit-niagara-outline.svg	
+ic_ip_app_com_kiwibrowser_browser	apps/16/com-kiwibrowser-browser-niagara-outline.svg	
+ic_ip_app_com_konylabs_capitalone	apps/16/com-konylabs-capitalone-niagara-outline.svg	
+ic_ip_app_com_lastpass_lpandroid	apps/16/com-lastpass-lpandroid-niagara-outline.svg	
+ic_ip_app_com_laurencedawson_reddit_sync	apps/16/com-laurencedawson-reddit-sync-niagara-outline.svg	
+ic_ip_app_com_laurencedawson_reddit_sync_pro	apps/16/com-laurencedawson-reddit-sync-pro-niagara-outline.svg	
+ic_ip_app_com_lazada_android	apps/16/com-lazada-android-niagara-outline.svg	
+ic_ip_app_com_lemon_lvoverseas	apps/16/com-lemon-lvoverseas-niagara-outline.svg	
+ic_ip_app_com_letterboxd_letterboxd	apps/16/com-letterboxd-letterboxd-niagara-outline.svg	
+ic_ip_app_com_lgeha_nuts	apps/16/com-lgeha-nuts-niagara-outline.svg	
+ic_ip_app_com_lidl_eci_lidlplus	apps/16/com-lidl-eci-lidlplus-niagara-outline.svg	
+ic_ip_app_com_life360_android_safetymapd	apps/16/com-life360-android-safetymapd-niagara-outline.svg	
+ic_ip_app_com_linkedin_android	apps/16/com-linkedin-android-niagara-outline.svg	
+ic_ip_app_com_looker_droidify	apps/16/com-looker-droidify-niagara-outline.svg	
+ic_ip_app_com_maxmpz_audioplayer	apps/16/com-maxmpz-audioplayer-niagara-outline.svg	
+ic_ip_app_com_mcdonalds_mobileapp	apps/16/com-mcdonalds-mobileapp-niagara-outline.svg	
+ic_ip_app_com_medium_reader	apps/16/com-medium-reader-niagara-outline.svg	
+ic_ip_app_com_meesho_supply	apps/16/com-meesho-supply-niagara-outline.svg	
+ic_ip_app_com_mercadolibre	apps/16/com-mercadolibre-niagara-outline.svg	
+ic_ip_app_com_mi_android_globalfileexplorer	apps/16/com-mi-android-globalfileexplorer-niagara-outline.svg	
+ic_ip_app_com_mi_android_globalminusscreen	apps/16/com-mi-android-globalminusscreen-niagara-outline.svg	
+ic_ip_app_com_microblink_photomath	apps/16/com-microblink-photomath-niagara-outline.svg	
+ic_ip_app_com_microsoft_appmanager	apps/16/com-microsoft-appmanager-niagara-outline.svg	
+ic_ip_app_com_microsoft_bing	apps/16/com-microsoft-bing-niagara-outline.svg	
+ic_ip_app_com_microsoft_copilot	apps/16/com-microsoft-copilot-niagara-outline.svg	
+ic_ip_app_com_microsoft_emmx	apps/16/com-microsoft-emmx-niagara-outline.svg	
+ic_ip_app_com_microsoft_office_excel	apps/16/com-microsoft-office-excel-niagara-outline.svg	
+ic_ip_app_com_microsoft_office_officehubrow	apps/16/com-microsoft-office-officehubrow-niagara-outline.svg	
+ic_ip_app_com_microsoft_office_officelens	apps/16/com-microsoft-office-officelens-niagara-outline.svg	
+ic_ip_app_com_microsoft_office_onenote	apps/16/com-microsoft-office-onenote-niagara-outline.svg	
+ic_ip_app_com_microsoft_office_outlook	apps/16/com-microsoft-office-outlook-niagara-outline.svg	
+ic_ip_app_com_microsoft_office_powerpoint	apps/16/com-microsoft-office-powerpoint-niagara-outline.svg	
+ic_ip_app_com_microsoft_office_word	apps/16/com-microsoft-office-word-niagara-outline.svg	
+ic_ip_app_com_microsoft_skydrive	apps/16/com-microsoft-skydrive-niagara-outline.svg	
+ic_ip_app_com_microsoft_teams	apps/16/com-microsoft-teams-niagara-outline.svg	
+ic_ip_app_com_microsoft_todos	apps/16/com-microsoft-todos-niagara-outline.svg	
+ic_ip_app_com_microsoft_windowsintune_companyportal	apps/16/com-microsoft-windowsintune-companyportal-niagara-outline.svg	
+ic_ip_app_com_microsoft_xboxone_smartglass	apps/16/com-microsoft-xboxone-smartglass-niagara-outline.svg	
+ic_ip_app_com_mihoyo_genshinimpact	apps/16/com-mihoyo-genshinimpact-niagara-outline.svg	
+ic_ip_app_com_mihoyo_hoyolab	apps/16/com-mihoyo-hoyolab-niagara-outline.svg	
+ic_ip_app_com_miui_calculator	apps/16/com-miui-calculator-niagara-outline.svg	
+ic_ip_app_com_miui_compass	apps/16/com-miui-compass-niagara-outline.svg	
+ic_ip_app_com_miui_gallery	apps/16/com-miui-gallery-niagara-outline.svg	
+ic_ip_app_com_miui_miservice	apps/16/com-miui-miservice-niagara-outline.svg	
+ic_ip_app_com_miui_notes	apps/16/com-miui-notes-niagara-outline.svg	
+ic_ip_app_com_miui_player	apps/16/com-miui-player-niagara-outline.svg	
+ic_ip_app_com_miui_securitycenter	apps/16/com-miui-securitycenter-niagara-outline.svg	
+ic_ip_app_com_miui_videoplayer	apps/16/com-miui-videoplayer-niagara-outline.svg	
+ic_ip_app_com_miui_weather2	apps/16/com-miui-weather2-niagara-outline.svg	
+ic_ip_app_com_mixplorer	apps/16/com-mixplorer-niagara-outline.svg	
+ic_ip_app_com_mobile_legends	apps/16/com-mobile-legends-niagara-outline.svg	
+ic_ip_app_com_modhaus_cosmo	apps/16/com-modhaus-cosmo-niagara-outline.svg	
+ic_ip_app_com_mojang_minecraftpe	apps/16/com-mojang-minecraftpe-niagara-outline.svg	
+ic_ip_app_com_motorola_audiorecorder	apps/16/com-motorola-audiorecorder-niagara-outline.svg	
+ic_ip_app_com_motorola_camera3	apps/16/com-motorola-camera3-niagara-outline.svg	
+ic_ip_app_com_motorola_camera5	apps/16/com-motorola-camera5-niagara-outline.svg	
+ic_ip_app_com_motorola_gamemode	apps/16/com-motorola-gamemode-niagara-outline.svg	
+ic_ip_app_com_motorola_genie	apps/16/com-motorola-genie-niagara-outline.svg	
+ic_ip_app_com_motorola_moto	apps/16/com-motorola-moto-niagara-outline.svg	
+ic_ip_app_com_motorola_motodisplay	apps/16/com-motorola-motodisplay-niagara-outline.svg	
+ic_ip_app_com_motorola_securityhub	apps/16/com-motorola-securityhub-niagara-outline.svg	
+ic_ip_app_com_motorola_tag	apps/16/com-motorola-tag-niagara-outline.svg	
+ic_ip_app_com_mventus_selfcare_activity	apps/16/com-mventus-selfcare-activity-niagara-outline.svg	
+ic_ip_app_com_mxtech_videoplayer_ad	apps/16/com-mxtech-videoplayer-ad-niagara-outline.svg	
+ic_ip_app_com_myairtelapp	apps/16/com-myairtelapp-niagara-outline.svg	
+ic_ip_app_com_myfitnesspal_android	apps/16/com-myfitnesspal-android-niagara-outline.svg	
+ic_ip_app_com_myklarnamobile	apps/16/com-myklarnamobile-niagara-outline.svg	
+ic_ip_app_com_myntra_android	apps/16/com-myntra-android-niagara-outline.svg	
+ic_ip_app_com_naver_linewebtoon	apps/16/com-naver-linewebtoon-niagara-outline.svg	
+ic_ip_app_com_neowiz_android_bugs	apps/16/com-neowiz-android-bugs-niagara-outline.svg	
+ic_ip_app_com_netflix_mediaclient	apps/16/com-netflix-mediaclient-niagara-outline.svg	
+ic_ip_app_com_nextbillion_groww	apps/16/com-nextbillion-groww-niagara-outline.svg	
+ic_ip_app_com_nextcloud_client	apps/16/com-nextcloud-client-niagara-outline.svg	
+ic_ip_app_com_nhn_android_search	apps/16/com-nhn-android-search-niagara-outline.svg	
+ic_ip_app_com_nianticlabs_monsterhunter	apps/16/com-nianticlabs-monsterhunter-niagara-outline.svg	
+ic_ip_app_com_nianticlabs_pokemongo	apps/16/com-nianticlabs-pokemongo-niagara-outline.svg	
+ic_ip_app_com_nianticproject_ingress	apps/16/com-nianticproject-ingress-niagara-outline.svg	
+ic_ip_app_com_niksoftware_snapseed	apps/16/com-niksoftware-snapseed-niagara-outline.svg	
+ic_ip_app_com_ninegag_android_app	apps/16/com-ninegag-android-app-niagara-outline.svg	
+ic_ip_app_com_nintendo_znca	apps/16/com-nintendo-znca-niagara-outline.svg	
+ic_ip_app_com_noctuasoftware_stellarium_free	apps/16/com-noctuasoftware-stellarium-free-niagara-outline.svg	
+ic_ip_app_com_nordvpn_android	apps/16/com-nordvpn-android-niagara-outline.svg	
+ic_ip_app_com_nothing_camera	apps/16/com-nothing-camera-niagara-outline.svg	
+ic_ip_app_com_nothing_smartcenter	apps/16/com-nothing-smartcenter-niagara-outline.svg	
+ic_ip_app_com_nu_production	apps/16/com-nu-production-niagara-outline.svg	
+ic_ip_app_com_nytimes_android	apps/16/com-nytimes-android-niagara-outline.svg	
+ic_ip_app_com_oceanwing_soundcore	apps/16/com-oceanwing-soundcore-niagara-outline.svg	
+ic_ip_app_com_oculus_twilight	apps/16/com-oculus-twilight-niagara-outline.svg	
+ic_ip_app_com_okta_android_auth	apps/16/com-okta-android-auth-niagara-outline.svg	
+ic_ip_app_com_olacabs_customer	apps/16/com-olacabs-customer-niagara-outline.svg	
+ic_ip_app_com_onepassword_android	apps/16/com-onepassword-android-niagara-outline.svg	
+ic_ip_app_com_oneplus_calculator	apps/16/com-oneplus-calculator-niagara-outline.svg	
+ic_ip_app_com_oneplus_deskclock	apps/16/com-oneplus-deskclock-niagara-outline.svg	
+ic_ip_app_com_oneplus_filemanager	apps/16/com-oneplus-filemanager-niagara-outline.svg	
+ic_ip_app_com_oneplus_gallery	apps/16/com-oneplus-gallery-niagara-outline.svg	
+ic_ip_app_com_oneplus_mms	apps/16/com-oneplus-mms-niagara-outline.svg	
+ic_ip_app_com_oneplus_note	apps/16/com-oneplus-note-niagara-outline.svg	
+ic_ip_app_com_openai_chatgpt	apps/16/com-openai-chatgpt-niagara-outline.svg	
+ic_ip_app_com_opera_browser	apps/16/com-opera-browser-niagara-outline.svg	
+ic_ip_app_com_opera_gx	apps/16/com-opera-gx-niagara-outline.svg	
+ic_ip_app_com_oplus_games	apps/16/com-oplus-games-niagara-outline.svg	
+ic_ip_app_com_ovelin_guitartuna	apps/16/com-ovelin-guitartuna-niagara-outline.svg	
+ic_ip_app_com_overdrive_mobile_android_libby	apps/16/com-overdrive-mobile-android-libby-niagara-outline.svg	
+ic_ip_app_com_papajohns_android	apps/16/com-papajohns-android-niagara-outline.svg	
+ic_ip_app_com_patreon_android	apps/16/com-patreon-android-niagara-outline.svg	
+ic_ip_app_com_paypal_android_p2pmobile	apps/16/com-paypal-android-p2pmobile-niagara-outline.svg	
+ic_ip_app_com_philips_lighting_hue2	apps/16/com-philips-lighting-hue2-niagara-outline.svg	
+ic_ip_app_com_phonepe_app	apps/16/com-phonepe-app-niagara-outline.svg	
+ic_ip_app_com_picsart_studio	apps/16/com-picsart-studio-niagara-outline.svg	
+ic_ip_app_com_pinterest	apps/16/com-pinterest-niagara-outline.svg	
+ic_ip_app_com_playstack_balatro_android	apps/16/com-playstack-balatro-android-niagara-outline.svg	
+ic_ip_app_com_plexapp_android	apps/16/com-plexapp-android-niagara-outline.svg	
+ic_ip_app_com_pluxeegroup_consumers_global	apps/16/com-pluxeegroup-consumers-global-niagara-outline.svg	
+ic_ip_app_com_qwant_liberty	apps/16/com-qwant-liberty-niagara-outline.svg	
+ic_ip_app_com_rapido_passenger	apps/16/com-rapido-passenger-niagara-outline.svg	
+ic_ip_app_com_rarlab_rar	apps/16/com-rarlab-rar-niagara-outline.svg	
+ic_ip_app_com_readdle_spark	apps/16/com-readdle-spark-niagara-outline.svg	
+ic_ip_app_com_realme_link	apps/16/com-realme-link-niagara-outline.svg	
+ic_ip_app_com_reddit_frontpage	apps/16/com-reddit-frontpage-niagara-outline.svg	
+ic_ip_app_com_revolut_revolut	apps/16/com-revolut-revolut-niagara-outline.svg	
+ic_ip_app_com_roblox_client	apps/16/com-roblox-client-niagara-outline.svg	
+ic_ip_app_com_robtopx_geometryjump	apps/16/com-robtopx-geometryjump-niagara-outline.svg	
+ic_ip_app_com_roku_remote	apps/16/com-roku-remote-niagara-outline.svg	
+ic_ip_app_com_rsupport_rs_activity_rsupport_aas2	apps/16/com-rsupport-rs-activity-rsupport-aas2-niagara-outline.svg	
+ic_ip_app_com_rubenmayayo_reddit	apps/16/com-rubenmayayo-reddit-niagara-outline.svg	
+ic_ip_app_com_samruston_buzzkill	apps/16/com-samruston-buzzkill-niagara-outline.svg	
+ic_ip_app_com_samsung_android_app_cameraassistant	apps/16/com-samsung-android-app-cameraassistant-niagara-outline.svg	
+ic_ip_app_com_samsung_android_app_find	apps/16/com-samsung-android-app-find-niagara-outline.svg	
+ic_ip_app_com_samsung_android_app_galaxyraw	apps/16/com-samsung-android-app-galaxyraw-niagara-outline.svg	
+ic_ip_app_com_samsung_android_app_notes	apps/16/com-samsung-android-app-notes-niagara-outline.svg	
+ic_ip_app_com_samsung_android_app_reminder	apps/16/com-samsung-android-app-reminder-niagara-outline.svg	
+ic_ip_app_com_samsung_android_app_routines	apps/16/com-samsung-android-app-routines-niagara-outline.svg	
+ic_ip_app_com_samsung_android_app_spage	apps/16/com-samsung-android-app-spage-niagara-outline.svg	
+ic_ip_app_com_samsung_android_app_watchmanager	apps/16/com-samsung-android-app-watchmanager-niagara-outline.svg	
+ic_ip_app_com_samsung_android_ardrawing	apps/16/com-samsung-android-ardrawing-niagara-outline.svg	
+ic_ip_app_com_samsung_android_arzone	apps/16/com-samsung-android-arzone-niagara-outline.svg	
+ic_ip_app_com_samsung_android_bixby_agent	apps/16/com-samsung-android-bixby-agent-niagara-outline.svg	
+ic_ip_app_com_samsung_android_calendar	apps/16/com-samsung-android-calendar-niagara-outline.svg	
+ic_ip_app_com_samsung_android_dialer	apps/16/com-samsung-android-dialer-niagara-outline.svg	
+ic_ip_app_com_samsung_android_email_provider	apps/16/com-samsung-android-email-provider-niagara-outline.svg	
+ic_ip_app_com_samsung_android_goodlock	apps/16/com-samsung-android-goodlock-niagara-outline.svg	
+ic_ip_app_com_samsung_android_keyscafe	apps/16/com-samsung-android-keyscafe-niagara-outline.svg	
+ic_ip_app_com_samsung_android_lool	apps/16/com-samsung-android-lool-niagara-outline.svg	
+ic_ip_app_com_samsung_android_messaging	apps/16/com-samsung-android-messaging-niagara-outline.svg	
+ic_ip_app_com_samsung_android_oneconnect	apps/16/com-samsung-android-oneconnect-niagara-outline.svg	
+ic_ip_app_com_samsung_android_samsungpass	apps/16/com-samsung-android-samsungpass-niagara-outline.svg	
+ic_ip_app_com_samsung_android_shealthmonitor	apps/16/com-samsung-android-shealthmonitor-niagara-outline.svg	
+ic_ip_app_com_samsung_android_sidegesturepad	apps/16/com-samsung-android-sidegesturepad-niagara-outline.svg	
+ic_ip_app_com_samsung_android_smartsuggestions	apps/16/com-samsung-android-smartsuggestions-niagara-outline.svg	
+ic_ip_app_com_samsung_android_soundassistant	apps/16/com-samsung-android-soundassistant-niagara-outline.svg	
+ic_ip_app_com_samsung_android_spay	apps/16/com-samsung-android-spay-niagara-outline.svg	
+ic_ip_app_com_samsung_android_themedesigner	apps/16/com-samsung-android-themedesigner-niagara-outline.svg	
+ic_ip_app_com_samsung_android_tvplus	apps/16/com-samsung-android-tvplus-niagara-outline.svg	
+ic_ip_app_com_samsung_android_voc	apps/16/com-samsung-android-voc-niagara-outline.svg	
+ic_ip_app_com_samsung_knox_securefolder	apps/16/com-samsung-knox-securefolder-niagara-outline.svg	
+ic_ip_app_com_samsung_sree	apps/16/com-samsung-sree-niagara-outline.svg	
+ic_ip_app_com_samsung_vvm	apps/16/com-samsung-vvm-niagara-outline.svg	
+ic_ip_app_com_sbi_lotusintouch	apps/16/com-sbi-lotusintouch-niagara-outline.svg	
+ic_ip_app_com_scee_psxandroid	apps/16/com-scee-psxandroid-niagara-outline.svg	
+ic_ip_app_com_screenzen	apps/16/com-screenzen-niagara-outline.svg	
+ic_ip_app_com_sec_android_app_camera	apps/16/com-sec-android-app-camera-niagara-outline.svg	
+ic_ip_app_com_sec_android_app_clockpackage	apps/16/com-sec-android-app-clockpackage-niagara-outline.svg	
+ic_ip_app_com_sec_android_app_music	apps/16/com-sec-android-app-music-niagara-outline.svg	
+ic_ip_app_com_sec_android_app_myfiles	apps/16/com-sec-android-app-myfiles-niagara-outline.svg	
+ic_ip_app_com_sec_android_app_popupcalculator	apps/16/com-sec-android-app-popupcalculator-niagara-outline.svg	
+ic_ip_app_com_sec_android_app_samsungapps	apps/16/com-sec-android-app-samsungapps-niagara-outline.svg	
+ic_ip_app_com_sec_android_app_sbrowser	apps/16/com-sec-android-app-sbrowser-niagara-outline.svg	
+ic_ip_app_com_sec_android_app_shealth	apps/16/com-sec-android-app-shealth-niagara-outline.svg	
+ic_ip_app_com_sec_android_app_voicenote	apps/16/com-sec-android-app-voicenote-niagara-outline.svg	
+ic_ip_app_com_sec_android_daemonapp	apps/16/com-sec-android-daemonapp-niagara-outline.svg	
+ic_ip_app_com_sec_android_easymover	apps/16/com-sec-android-easymover-niagara-outline.svg	
+ic_ip_app_com_sec_android_gallery3d	apps/16/com-sec-android-gallery3d-niagara-outline.svg	
+ic_ip_app_com_sec_penup	apps/16/com-sec-penup-niagara-outline.svg	
+ic_ip_app_com_sennheiser_control	apps/16/com-sennheiser-control-niagara-outline.svg	
+ic_ip_app_com_sh_smart_caller	apps/16/com-sh-smart-caller-niagara-outline.svg	
+ic_ip_app_com_shazam_android	apps/16/com-shazam-android-niagara-outline.svg	
+ic_ip_app_com_shopee_ph	apps/16/com-shopee-ph-niagara-outline.svg	
+ic_ip_app_com_shopify_arrive	apps/16/com-shopify-arrive-niagara-outline.svg	
+ic_ip_app_com_simplemobiletools_gallery_pro	apps/16/com-simplemobiletools-gallery-pro-niagara-outline.svg	
+ic_ip_app_com_sirma_mobile_bible_android	apps/16/com-sirma-mobile-bible-android-niagara-outline.svg	
+ic_ip_app_com_skype_raider	apps/16/com-skype-raider-niagara-outline.svg	
+ic_ip_app_com_slack	apps/16/com-slack-niagara-outline.svg	
+ic_ip_app_com_snapchat_android	apps/16/com-snapchat-android-niagara-outline.svg	
+ic_ip_app_com_snapwork_hdfc	apps/16/com-snapwork-hdfc-niagara-outline.svg	
+ic_ip_app_com_snowcorp_stickerly_android	apps/16/com-snowcorp-stickerly-android-niagara-outline.svg	
+ic_ip_app_com_softpauer_f1timingapp2014_basic	apps/16/com-softpauer-f1timingapp2014-basic-niagara-outline.svg	
+ic_ip_app_com_sonos_acr2	apps/16/com-sonos-acr2-niagara-outline.svg	
+ic_ip_app_com_sonova_chb_control	apps/16/com-sonova-chb-control-niagara-outline.svg	
+ic_ip_app_com_sony_songpal_mdr	apps/16/com-sony-songpal-mdr-niagara-outline.svg	
+ic_ip_app_com_soundcloud_android	apps/16/com-soundcloud-android-niagara-outline.svg	
+ic_ip_app_com_splitwise_splitwisemobile	apps/16/com-splitwise-splitwisemobile-niagara-outline.svg	
+ic_ip_app_com_spotify_music	apps/16/com-spotify-music-niagara-outline.svg	
+ic_ip_app_com_spotlightsix_zentimerlite2	apps/16/com-spotlightsix-zentimerlite2-niagara-outline.svg	
+ic_ip_app_com_squareup_cash	apps/16/com-squareup-cash-niagara-outline.svg	
+ic_ip_app_com_starbucks_mobilecard	apps/16/com-starbucks-mobilecard-niagara-outline.svg	
+ic_ip_app_com_starfinanz_smob_android_sfinanzstatus	apps/16/com-starfinanz-smob-android-sfinanzstatus-niagara-outline.svg	
+ic_ip_app_com_startpage_app	apps/16/com-startpage-app-niagara-outline.svg	
+ic_ip_app_com_strava	apps/16/com-strava-niagara-outline.svg	
+ic_ip_app_com_stremio_one	apps/16/com-stremio-one-niagara-outline.svg	
+ic_ip_app_com_substack_app	apps/16/com-substack-app-niagara-outline.svg	
+ic_ip_app_com_subway_mobile_subwayapp03	apps/16/com-subway-mobile-subwayapp03-niagara-outline.svg	
+ic_ip_app_com_supercell_brawlstars	apps/16/com-supercell-brawlstars-niagara-outline.svg	
+ic_ip_app_com_supercell_clashofclans	apps/16/com-supercell-clashofclans-niagara-outline.svg	
+ic_ip_app_com_supercell_clashroyale	apps/16/com-supercell-clashroyale-niagara-outline.svg	
+ic_ip_app_com_tailscale_ipn	apps/16/com-tailscale-ipn-niagara-outline.svg	
+ic_ip_app_com_taobao_taobao	apps/16/com-taobao-taobao-niagara-outline.svg	
+ic_ip_app_com_target_ui	apps/16/com-target-ui-niagara-outline.svg	
+ic_ip_app_com_tencent_mm	apps/16/com-tencent-mm-niagara-outline.svg	
+ic_ip_app_com_tencent_mobileqq	apps/16/com-tencent-mobileqq-niagara-outline.svg	
+ic_ip_app_com_tencent_qqmusic	apps/16/com-tencent-qqmusic-niagara-outline.svg	
+ic_ip_app_com_termux	apps/16/com-termux-niagara-outline.svg	
+ic_ip_app_com_teslacoilsw_launcher	apps/16/com-teslacoilsw-launcher-niagara-outline.svg	
+ic_ip_app_com_teslamotors_tesla	apps/16/com-teslamotors-tesla-niagara-outline.svg	
+ic_ip_app_com_textra	apps/16/com-textra-niagara-outline.svg	
+ic_ip_app_com_thetileapp_tile	apps/16/com-thetileapp-tile-niagara-outline.svg	
+ic_ip_app_com_ticketmaster_mobile_android_na	apps/16/com-ticketmaster-mobile-android-na-niagara-outline.svg	
+ic_ip_app_com_ticktick_task	apps/16/com-ticktick-task-niagara-outline.svg	
+ic_ip_app_com_tinder	apps/16/com-tinder-niagara-outline.svg	
+ic_ip_app_com_todoist	apps/16/com-todoist-niagara-outline.svg	
+ic_ip_app_com_tokopedia_tkpd	apps/16/com-tokopedia-tkpd-niagara-outline.svg	
+ic_ip_app_com_tophatch_concepts	apps/16/com-tophatch-concepts-niagara-outline.svg	
+ic_ip_app_com_topjohnwu_magisk	apps/16/com-topjohnwu-magisk-niagara-outline.svg	
+ic_ip_app_com_touchtype_swiftkey	apps/16/com-touchtype-swiftkey-niagara-outline.svg	
+ic_ip_app_com_tplink_iot	apps/16/com-tplink-iot-niagara-outline.svg	
+ic_ip_app_com_tplink_tether	apps/16/com-tplink-tether-niagara-outline.svg	
+ic_ip_app_com_tradingview_tradingviewapp	apps/16/com-tradingview-tradingviewapp-niagara-outline.svg	
+ic_ip_app_com_transferwise_android	apps/16/com-transferwise-android-niagara-outline.svg	
+ic_ip_app_com_trello	apps/16/com-trello-niagara-outline.svg	
+ic_ip_app_com_truecaller	apps/16/com-truecaller-niagara-outline.svg	
+ic_ip_app_com_tumblr	apps/16/com-tumblr-niagara-outline.svg	
+ic_ip_app_com_tuya_smartlife	apps/16/com-tuya-smartlife-niagara-outline.svg	
+ic_ip_app_com_twitter_android	apps/16/com-twitter-android-niagara-outline.svg	
+ic_ip_app_com_ubercab	apps/16/com-ubercab-niagara-outline.svg	
+ic_ip_app_com_ubercab_eats	apps/16/com-ubercab-eats-niagara-outline.svg	
+ic_ip_app_com_udemy_android	apps/16/com-udemy-android-niagara-outline.svg	
+ic_ip_app_com_unicornsonlsd_finamp	apps/16/com-unicornsonlsd-finamp-niagara-outline.svg	
+ic_ip_app_com_urbandroid_sleep	apps/16/com-urbandroid-sleep-niagara-outline.svg	
+ic_ip_app_com_valvesoftware_android_steam_community	apps/16/com-valvesoftware-android-steam-community-niagara-outline.svg	
+ic_ip_app_com_venmo	apps/16/com-venmo-niagara-outline.svg	
+ic_ip_app_com_viber_voip	apps/16/com-viber-voip-niagara-outline.svg	
+ic_ip_app_com_vivaldi_browser	apps/16/com-vivaldi-browser-niagara-outline.svg	
+ic_ip_app_com_vivo_gallery	apps/16/com-vivo-gallery-niagara-outline.svg	
+ic_ip_app_com_vivo_website	apps/16/com-vivo-website-niagara-outline.svg	
+ic_ip_app_com_walmart_android	apps/16/com-walmart-android-niagara-outline.svg	
+ic_ip_app_com_waze	apps/16/com-waze-niagara-outline.svg	
+ic_ip_app_com_werewolfapps_online	apps/16/com-werewolfapps-online-niagara-outline.svg	
+ic_ip_app_com_whatsapp	apps/16/com-whatsapp-niagara-outline.svg	
+ic_ip_app_com_whatsapp_w4b	apps/16/com-whatsapp-w4b-niagara-outline.svg	
+ic_ip_app_com_whereismytrain_android	apps/16/com-whereismytrain-android-niagara-outline.svg	
+ic_ip_app_com_x8bit_bitwarden	apps/16/com-x8bit-bitwarden-niagara-outline.svg	
+ic_ip_app_com_xiaomi_calendar	apps/16/com-xiaomi-calendar-niagara-outline.svg	
+ic_ip_app_com_xiaomi_glgm	apps/16/com-xiaomi-glgm-niagara-outline.svg	
+ic_ip_app_com_xiaomi_hm_health	apps/16/com-xiaomi-hm-health-niagara-outline.svg	
+ic_ip_app_com_xiaomi_midrop	apps/16/com-xiaomi-midrop-niagara-outline.svg	
+ic_ip_app_com_xiaomi_scanner	apps/16/com-xiaomi-scanner-niagara-outline.svg	
+ic_ip_app_com_xiaomi_smarthome	apps/16/com-xiaomi-smarthome-niagara-outline.svg	
+ic_ip_app_com_xingin_xhs	apps/16/com-xingin-xhs-niagara-outline.svg	
+ic_ip_app_com_xodo_pdf_reader	apps/16/com-xodo-pdf-reader-niagara-outline.svg	
+ic_ip_app_com_yahoo_mobile_client_android_mail	apps/16/com-yahoo-mobile-client-android-mail-niagara-outline.svg	
+ic_ip_app_com_youneedabudget_evergreen_app	apps/16/com-youneedabudget-evergreen-app-niagara-outline.svg	
+ic_ip_app_com_yum_pizzahut	apps/16/com-yum-pizzahut-niagara-outline.svg	
+ic_ip_app_com_zeptoconsumerapp	apps/16/com-zeptoconsumerapp-niagara-outline.svg	
+ic_ip_app_com_zerodha_kite3	apps/16/com-zerodha-kite3-niagara-outline.svg	
+ic_ip_app_com_zhiliaoapp_musically	apps/16/com-zhiliaoapp-musically-niagara-outline.svg	
+ic_ip_app_com_zillow_android_zillowmap	apps/16/com-zillow-android-zillowmap-niagara-outline.svg	
+ic_ip_app_com_zing_zalo	apps/16/com-zing-zalo-niagara-outline.svg	
+ic_ip_app_com_zzkko	apps/16/com-zzkko-niagara-outline.svg	
+ic_ip_app_company_thebrowser_arc	apps/16/company-thebrowser-arc-niagara-outline.svg	
+ic_ip_app_cris_org_in_prs_ima	apps/16/cris-org-in-prs-ima-niagara-outline.svg	
+ic_ip_app_de_danoeh_antennapod	apps/16/de-danoeh-antennapod-niagara-outline.svg	
+ic_ip_app_de_dhl_paket	apps/16/de-dhl-paket-niagara-outline.svg	
+ic_ip_app_de_dwd_warnapp	apps/16/de-dwd-warnapp-niagara-outline.svg	
+ic_ip_app_de_hafas_android_db	apps/16/de-hafas-android-db-niagara-outline.svg	
+ic_ip_app_de_komoot_android	apps/16/de-komoot-android-niagara-outline.svg	
+ic_ip_app_de_mackoy_ffagent	apps/16/de-mackoy-ffagent-niagara-outline.svg	
+ic_ip_app_de_materna_bbk_mobile_app	apps/16/de-materna-bbk-mobile-app-niagara-outline.svg	
+ic_ip_app_de_payback_client_android	apps/16/de-payback-client-android-niagara-outline.svg	
+ic_ip_app_de_rewe_app_mobile	apps/16/de-rewe-app-mobile-niagara-outline.svg	
+ic_ip_app_de_swr_avp_ard	apps/16/de-swr-avp-ard-niagara-outline.svg	
+ic_ip_app_de_tk_tkapp	apps/16/de-tk-tkapp-niagara-outline.svg	
+ic_ip_app_deezer_android_app	apps/16/deezer-android-app-niagara-outline.svg	
+ic_ip_app_droom_sleepifucan	apps/16/droom-sleepifucan-niagara-outline.svg	
+ic_ip_app_ee_mtakso_client	apps/16/ee-mtakso-client-niagara-outline.svg	
+ic_ip_app_epic_mychart_android	apps/16/epic-mychart-android-niagara-outline.svg	
+ic_ip_app_eu_faircode_email	apps/16/eu-faircode-email-niagara-outline.svg	
+ic_ip_app_eu_kanade_tachiyomi	apps/16/eu-kanade-tachiyomi-niagara-outline.svg	
+ic_ip_app_eu_thedarken_sdm	apps/16/eu-thedarken-sdm-niagara-outline.svg	
+ic_ip_app_fr_doctolib_www	apps/16/fr-doctolib-www-niagara-outline.svg	
+ic_ip_app_fr_vinted	apps/16/fr-vinted-niagara-outline.svg	
+ic_ip_app_free_reddit_news	apps/16/free-reddit-news-niagara-outline.svg	
+ic_ip_app_in_krosbits_musicolet	apps/16/in-krosbits-musicolet-niagara-outline.svg	
+ic_ip_app_in_org_npci_upiapp	apps/16/in-org-npci-upiapp-niagara-outline.svg	
+ic_ip_app_in_startv_hotstar	apps/16/in-startv-hotstar-niagara-outline.svg	
+ic_ip_app_in_swiggy_android	apps/16/in-swiggy-android-niagara-outline.svg	
+ic_ip_app_io_element_android_x	apps/16/io-element-android-x-niagara-outline.svg	
+ic_ip_app_io_homeassistant_companion_android	apps/16/io-homeassistant-companion-android-niagara-outline.svg	
+ic_ip_app_is_xyz_mpv	apps/16/is-xyz-mpv-niagara-outline.svg	
+ic_ip_app_jp_naver_line_android	apps/16/jp-naver-line-android-niagara-outline.svg	
+ic_ip_app_jp_pokemon_pokemontcgp	apps/16/jp-pokemon-pokemontcgp-niagara-outline.svg	
+ic_ip_app_md_obsidian	apps/16/md-obsidian-niagara-outline.svg	
+ic_ip_app_me_lyft_android	apps/16/me-lyft-android-niagara-outline.svg	
+ic_ip_app_mega_privacy_android_app	apps/16/mega-privacy-android-app-niagara-outline.svg	
+ic_ip_app_ml_docilealligator_infinityforreddit	apps/16/ml-docilealligator-infinityforreddit-niagara-outline.svg	
+ic_ip_app_moe_shizuku_privileged_api	apps/16/moe-shizuku-privileged-api-niagara-outline.svg	
+ic_ip_app_net_daylio	apps/16/net-daylio-niagara-outline.svg	
+ic_ip_app_net_dinglisch_android_taskerm	apps/16/net-dinglisch-android-taskerm-niagara-outline.svg	
+ic_ip_app_net_one97_paytm	apps/16/net-one97-paytm-niagara-outline.svg	
+ic_ip_app_net_thunderbird_android	apps/16/net-thunderbird-android-niagara-outline.svg	
+ic_ip_app_net_zedge_android	apps/16/net-zedge-android-niagara-outline.svg	
+ic_ip_app_ninja_sesame_app_edge	apps/16/ninja-sesame-app-edge-niagara-outline.svg	
+ic_ip_app_notion_id	apps/16/notion-id-niagara-outline.svg	
+ic_ip_app_o_o_joey	apps/16/o-o-joey-niagara-outline.svg	
+ic_ip_app_org_adaway	apps/16/org-adaway-niagara-outline.svg	
+ic_ip_app_org_cris_aikyam	apps/16/org-cris-aikyam-niagara-outline.svg	
+ic_ip_app_org_cromite_cromite	apps/16/org-cromite-cromite-niagara-outline.svg	
+ic_ip_app_org_fdroid_fdroid	apps/16/org-fdroid-fdroid-niagara-outline.svg	
+ic_ip_app_org_jellyfin_mobile	apps/16/org-jellyfin-mobile-niagara-outline.svg	
+ic_ip_app_org_joinmastodon_android	apps/16/org-joinmastodon-android-niagara-outline.svg	
+ic_ip_app_org_kde_kdeconnect_tp	apps/16/org-kde-kdeconnect-tp-niagara-outline.svg	
+ic_ip_app_org_kustom_widget	apps/16/org-kustom-widget-niagara-outline.svg	
+ic_ip_app_org_lichess_mobileapp	apps/16/org-lichess-mobileapp-niagara-outline.svg	
+ic_ip_app_org_listenbrainz_android	apps/16/org-listenbrainz-android-niagara-outline.svg	
+ic_ip_app_org_localsend_localsend_app	apps/16/org-localsend-localsend-app-niagara-outline.svg	
+ic_ip_app_org_metabrainz_android	apps/16/org-metabrainz-android-niagara-outline.svg	
+ic_ip_app_org_mozilla_fenix	apps/16/org-mozilla-fenix-niagara-outline.svg	
+ic_ip_app_org_mozilla_firefox	apps/16/org-mozilla-firefox-niagara-outline.svg	
+ic_ip_app_org_mozilla_firefox_beta	apps/16/org-mozilla-firefox-beta-niagara-outline.svg	
+ic_ip_app_org_mozilla_focus	apps/16/org-mozilla-focus-niagara-outline.svg	
+ic_ip_app_org_readera	apps/16/org-readera-niagara-outline.svg	
+ic_ip_app_org_schabi_newpipe	apps/16/org-schabi-newpipe-niagara-outline.svg	
+ic_ip_app_org_telegram_messenger	apps/16/org-telegram-messenger-niagara-outline.svg	
+ic_ip_app_org_thoughtcrime_securesms	apps/16/org-thoughtcrime-securesms-niagara-outline.svg	
+ic_ip_app_org_thunderdog_challegram	apps/16/org-thunderdog-challegram-niagara-outline.svg	
+ic_ip_app_org_torproject_torbrowser	apps/16/org-torproject-torbrowser-niagara-outline.svg	
+ic_ip_app_org_videolan_vlc	apps/16/org-videolan-vlc-niagara-outline.svg	
+ic_ip_app_org_wakingup_android	apps/16/org-wakingup-android-niagara-outline.svg	
+ic_ip_app_org_wikipedia	apps/16/org-wikipedia-niagara-outline.svg	
+ic_ip_app_org_zwanoo_android_speedtest	apps/16/org-zwanoo-android-speedtest-niagara-outline.svg	
+ic_ip_app_pl_solidexplorer2	apps/16/pl-solidexplorer2-niagara-outline.svg	
+ic_ip_app_proton_android_pass	apps/16/proton-android-pass-niagara-outline.svg	
+ic_ip_app_reddit_news	apps/16/reddit-news-niagara-outline.svg	
+ic_ip_app_ru_zdevs_zarchiver	apps/16/ru-zdevs-zarchiver-niagara-outline.svg	
+ic_ip_app_samsung_gamelauncher	apps/16/samsung-gamelauncher-niagara-outline.svg	
+ic_ip_app_sen_drafting	apps/16/sen-drafting-niagara-outline.svg	
+ic_ip_app_sen_typinghero	apps/16/sen-typinghero-niagara-outline.svg	
+ic_ip_app_shondha_devapps_walls	apps/16/shondha-devapps-walls-niagara-outline.svg	
+ic_ip_app_sinet_startup_indriver	apps/16/sinet-startup-indriver-niagara-outline.svg	
+ic_ip_app_tech_httptoolkit_android_v1	apps/16/tech-httptoolkit-android-v1-niagara-outline.svg	
+ic_ip_app_tech_pnlfin_finom	apps/16/tech-pnlfin-finom-niagara-outline.svg	
+ic_ip_app_the_intelligence_insider	apps/16/the-intelligence-insider-niagara-outline.svg	
+ic_ip_app_tv_plex_labs_plexamp	apps/16/tv-plex-labs-plexamp-niagara-outline.svg	
+ic_ip_app_tv_twitch_android_app	apps/16/tv-twitch-android-app-niagara-outline.svg	
+ic_ip_app_tw_nekomimi_nekogram	apps/16/tw-nekomimi-nekogram-niagara-outline.svg	
+ic_ip_app_us_zoom_videomeetings	apps/16/us-zoom-videomeetings-niagara-outline.svg	
+ic_ip_app_xyz_appmaker_kibcko	apps/16/xyz-appmaker-kibcko-niagara-outline.svg	
+ic_ip_app_xyz_blueskyweb_app	apps/16/xyz-blueskyweb-app-niagara-outline.svg	
+ic_ip_app_yqtrack_app	apps/16/yqtrack-app-niagara-outline.svg	
+ic_ip_cat_air_travel	apps/16/category-air-travel-niagara-outline.svg	
+ic_ip_cat_american_football_game	apps/16/category-american-football-game-niagara-outline.svg	
+ic_ip_cat_app_store	apps/16/category-app-store-niagara-outline.svg	
+ic_ip_cat_arcade_game	apps/16/category-arcade-game-niagara-outline.svg	
+ic_ip_cat_audio_recorder	apps/16/category-audio-recorder-niagara-outline.svg	
+ic_ip_cat_authenticator	apps/16/category-authenticator-niagara-outline.svg	
+ic_ip_cat_baby_care_game	apps/16/category-baby-care-game-niagara-outline.svg	
+ic_ip_cat_banking	apps/16/category-banking-niagara-outline.svg	
+ic_ip_cat_baseball_game	apps/16/category-baseball-game-niagara-outline.svg	
+ic_ip_cat_basketball_game	apps/16/category-basketball-game-niagara-outline.svg	
+ic_ip_cat_battle_royale_game	apps/16/category-battle-royale-game-niagara-outline.svg	
+ic_ip_cat_billiards_game	apps/16/category-billiards-game-niagara-outline.svg	
+ic_ip_cat_bingo_game	apps/16/category-bingo-game-niagara-outline.svg	
+ic_ip_cat_blackjack_game	apps/16/category-blackjack-game-niagara-outline.svg	
+ic_ip_cat_block_puzzle_game	apps/16/category-block-puzzle-game-niagara-outline.svg	
+ic_ip_cat_board_game	apps/16/category-board-game-niagara-outline.svg	
+ic_ip_cat_books	apps/16/category-books-niagara-outline.svg	
+ic_ip_cat_bowling_game	apps/16/category-bowling-game-niagara-outline.svg	
+ic_ip_cat_boxing_game	apps/16/category-boxing-game-niagara-outline.svg	
+ic_ip_cat_brain_training_game	apps/16/category-brain-training-game-niagara-outline.svg	
+ic_ip_cat_bubble_shooter_game	apps/16/category-bubble-shooter-game-niagara-outline.svg	
+ic_ip_cat_calculator	apps/16/category-calculator-niagara-outline.svg	
+ic_ip_cat_calendar	apps/16/category-calendar-niagara-outline.svg	
+ic_ip_cat_calling	apps/16/category-calling-niagara-outline.svg	
+ic_ip_cat_car_game	apps/16/category-car-game-niagara-outline.svg	
+ic_ip_cat_car_racing_game	apps/16/category-car-racing-game-niagara-outline.svg	
+ic_ip_cat_card_game	apps/16/category-card-game-niagara-outline.svg	
+ic_ip_cat_cars	apps/16/category-cars-niagara-outline.svg	
+ic_ip_cat_casino_game	apps/16/category-casino-game-niagara-outline.svg	
+ic_ip_cat_checkers_game	apps/16/category-checkers-game-niagara-outline.svg	
+ic_ip_cat_chess_game	apps/16/category-chess-game-niagara-outline.svg	
+ic_ip_cat_children	apps/16/category-children-niagara-outline.svg	
+ic_ip_cat_city_building_game	apps/16/category-city-building-game-niagara-outline.svg	
+ic_ip_cat_clock_and_sleep	apps/16/category-clock-and-sleep-niagara-outline.svg	
+ic_ip_cat_cloud_storage	apps/16/category-cloud-storage-niagara-outline.svg	
+ic_ip_cat_comics_and_manga	apps/16/category-comics-and-manga-niagara-outline.svg	
+ic_ip_cat_contacts	apps/16/category-contacts-niagara-outline.svg	
+ic_ip_cat_cricket_game	apps/16/category-cricket-game-niagara-outline.svg	
+ic_ip_cat_crossword_game	apps/16/category-crossword-game-niagara-outline.svg	
+ic_ip_cat_cryptocurrency	apps/16/category-cryptocurrency-niagara-outline.svg	
+ic_ip_cat_dating	apps/16/category-dating-niagara-outline.svg	
+ic_ip_cat_dating_simulation_game	apps/16/category-dating-simulation-game-niagara-outline.svg	
+ic_ip_cat_dentist_game	apps/16/category-dentist-game-niagara-outline.svg	
+ic_ip_cat_dice_game	apps/16/category-dice-game-niagara-outline.svg	
+ic_ip_cat_doctor_game	apps/16/category-doctor-game-niagara-outline.svg	
+ic_ip_cat_download	apps/16/category-download-niagara-outline.svg	
+ic_ip_cat_drawing_game	apps/16/category-drawing-game-niagara-outline.svg	
+ic_ip_cat_dress_up_game	apps/16/category-dress-up-game-niagara-outline.svg	
+ic_ip_cat_drums_game	apps/16/category-drums-game-niagara-outline.svg	
+ic_ip_cat_education	apps/16/category-education-niagara-outline.svg	
+ic_ip_cat_educational_game	apps/16/category-educational-game-niagara-outline.svg	
+ic_ip_cat_email	apps/16/category-email-niagara-outline.svg	
+ic_ip_cat_escape_the_room_game	apps/16/category-escape-the-room-game-niagara-outline.svg	
+ic_ip_cat_farming_game	apps/16/category-farming-game-niagara-outline.svg	
+ic_ip_cat_files	apps/16/category-files-niagara-outline.svg	
+ic_ip_cat_fitness	apps/16/category-fitness-niagara-outline.svg	
+ic_ip_cat_flight_simulator_game	apps/16/category-flight-simulator-game-niagara-outline.svg	
+ic_ip_cat_food	apps/16/category-food-niagara-outline.svg	
+ic_ip_cat_game	apps/16/category-game-niagara-outline.svg	
+ic_ip_cat_go_game	apps/16/category-go-game-niagara-outline.svg	
+ic_ip_cat_golf_game	apps/16/category-golf-game-niagara-outline.svg	
+ic_ip_cat_guitar_game	apps/16/category-guitar-game-niagara-outline.svg	
+ic_ip_cat_hack_and_slash_game	apps/16/category-hack-and-slash-game-niagara-outline.svg	
+ic_ip_cat_hair_salon_game	apps/16/category-hair-salon-game-niagara-outline.svg	
+ic_ip_cat_health	apps/16/category-health-niagara-outline.svg	
+ic_ip_cat_hockey_game	apps/16/category-hockey-game-niagara-outline.svg	
+ic_ip_cat_home	apps/16/category-home-niagara-outline.svg	
+ic_ip_cat_horror_game	apps/16/category-horror-game-niagara-outline.svg	
+ic_ip_cat_horses_game	apps/16/category-horses-game-niagara-outline.svg	
+ic_ip_cat_humor	apps/16/category-humor-niagara-outline.svg	
+ic_ip_cat_hunting_game	apps/16/category-hunting-game-niagara-outline.svg	
+ic_ip_cat_icon_pack	apps/16/category-icon-pack-niagara-outline.svg	
+ic_ip_cat_image_gallery	apps/16/category-image-gallery-niagara-outline.svg	
+ic_ip_cat_insurance	apps/16/category-insurance-niagara-outline.svg	
+ic_ip_cat_jobs	apps/16/category-jobs-niagara-outline.svg	
+ic_ip_cat_kart_racing_game	apps/16/category-kart-racing-game-niagara-outline.svg	
+ic_ip_cat_keyboard	apps/16/category-keyboard-niagara-outline.svg	
+ic_ip_cat_kustom_app	apps/16/category-kustom-app-niagara-outline.svg	
+ic_ip_cat_language_education	apps/16/category-language-education-niagara-outline.svg	
+ic_ip_cat_language_game	apps/16/category-language-game-niagara-outline.svg	
+ic_ip_cat_launcher	apps/16/category-launcher-niagara-outline.svg	
+ic_ip_cat_life_simulation_game	apps/16/category-life-simulation-game-niagara-outline.svg	
+ic_ip_cat_logo_quiz_game	apps/16/category-logo-quiz-game-niagara-outline.svg	
+ic_ip_cat_ludo_game	apps/16/category-ludo-game-niagara-outline.svg	
+ic_ip_cat_mahjong_game	apps/16/category-mahjong-game-niagara-outline.svg	
+ic_ip_cat_make_up_game	apps/16/category-make-up-game-niagara-outline.svg	
+ic_ip_cat_maps_and_navigation	apps/16/category-maps-and-navigation-niagara-outline.svg	
+ic_ip_cat_martial_arts_game	apps/16/category-martial-arts-game-niagara-outline.svg	
+ic_ip_cat_match_3_game	apps/16/category-match-3-game-niagara-outline.svg	
+ic_ip_cat_mathematics_game	apps/16/category-mathematics-game-niagara-outline.svg	
+ic_ip_cat_measurement	apps/16/category-measurement-niagara-outline.svg	
+ic_ip_cat_merge_game	apps/16/category-merge-game-niagara-outline.svg	
+ic_ip_cat_movies	apps/16/category-movies-niagara-outline.svg	
+ic_ip_cat_music	apps/16/category-music-niagara-outline.svg	
+ic_ip_cat_music_game	apps/16/category-music-game-niagara-outline.svg	
+ic_ip_cat_nail_salon_game	apps/16/category-nail-salon-game-niagara-outline.svg	
+ic_ip_cat_network_connectivity	apps/16/category-network-connectivity-niagara-outline.svg	
+ic_ip_cat_news	apps/16/category-news-niagara-outline.svg	
+ic_ip_cat_office	apps/16/category-office-niagara-outline.svg	
+ic_ip_cat_painting	apps/16/category-painting-niagara-outline.svg	
+ic_ip_cat_pair_matching_game	apps/16/category-pair-matching-game-niagara-outline.svg	
+ic_ip_cat_party_game	apps/16/category-party-game-niagara-outline.svg	
+ic_ip_cat_password_manager	apps/16/category-password-manager-niagara-outline.svg	
+ic_ip_cat_personal_assistant	apps/16/category-personal-assistant-niagara-outline.svg	
+ic_ip_cat_photography	apps/16/category-photography-niagara-outline.svg	
+ic_ip_cat_piano_game	apps/16/category-piano-game-niagara-outline.svg	
+ic_ip_cat_poker_game	apps/16/category-poker-game-niagara-outline.svg	
+ic_ip_cat_privacy_and_security	apps/16/category-privacy-and-security-niagara-outline.svg	
+ic_ip_cat_programming	apps/16/category-programming-niagara-outline.svg	
+ic_ip_cat_public_transport	apps/16/category-public-transport-niagara-outline.svg	
+ic_ip_cat_puzzle_game	apps/16/category-puzzle-game-niagara-outline.svg	
+ic_ip_cat_quiz_game	apps/16/category-quiz-game-niagara-outline.svg	
+ic_ip_cat_racquet_sports_game	apps/16/category-racquet-sports-game-niagara-outline.svg	
+ic_ip_cat_radio	apps/16/category-radio-niagara-outline.svg	
+ic_ip_cat_religious_text	apps/16/category-religious-text-niagara-outline.svg	
+ic_ip_cat_remote_control	apps/16/category-remote-control-niagara-outline.svg	
+ic_ip_cat_rummy_game	apps/16/category-rummy-game-niagara-outline.svg	
+ic_ip_cat_runner_game	apps/16/category-runner-game-niagara-outline.svg	
+ic_ip_cat_sandbox_game	apps/16/category-sandbox-game-niagara-outline.svg	
+ic_ip_cat_scanner	apps/16/category-scanner-niagara-outline.svg	
+ic_ip_cat_settings	apps/16/category-settings-niagara-outline.svg	
+ic_ip_cat_shedding_game	apps/16/category-shedding-game-niagara-outline.svg	
+ic_ip_cat_shooter_game	apps/16/category-shooter-game-niagara-outline.svg	
+ic_ip_cat_shopping	apps/16/category-shopping-niagara-outline.svg	
+ic_ip_cat_slot_machine_game	apps/16/category-slot-machine-game-niagara-outline.svg	
+ic_ip_cat_soccer_game	apps/16/category-soccer-game-niagara-outline.svg	
+ic_ip_cat_social_media	apps/16/category-social-media-niagara-outline.svg	
+ic_ip_cat_solitaire_game	apps/16/category-solitaire-game-niagara-outline.svg	
+ic_ip_cat_sports_news	apps/16/category-sports-news-niagara-outline.svg	
+ic_ip_cat_stickers	apps/16/category-stickers-niagara-outline.svg	
+ic_ip_cat_strategy_game	apps/16/category-strategy-game-niagara-outline.svg	
+ic_ip_cat_survival_game	apps/16/category-survival-game-niagara-outline.svg	
+ic_ip_cat_taxi_and_rideshare	apps/16/category-taxi-and-rideshare-niagara-outline.svg	
+ic_ip_cat_teen_patti_game	apps/16/category-teen-patti-game-niagara-outline.svg	
+ic_ip_cat_text_messaging	apps/16/category-text-messaging-niagara-outline.svg	
+ic_ip_cat_theme	apps/16/category-theme-niagara-outline.svg	
+ic_ip_cat_tips	apps/16/category-tips-niagara-outline.svg	
+ic_ip_cat_todo_list	apps/16/category-todo-list-niagara-outline.svg	
+ic_ip_cat_tools	apps/16/category-tools-niagara-outline.svg	
+ic_ip_cat_tower_defense_game	apps/16/category-tower-defense-game-niagara-outline.svg	
+ic_ip_cat_trading	apps/16/category-trading-niagara-outline.svg	
+ic_ip_cat_train_simulator_game	apps/16/category-train-simulator-game-niagara-outline.svg	
+ic_ip_cat_travel	apps/16/category-travel-niagara-outline.svg	
+ic_ip_cat_truck_game	apps/16/category-truck-game-niagara-outline.svg	
+ic_ip_cat_tycoon_game	apps/16/category-tycoon-game-niagara-outline.svg	
+ic_ip_cat_vehicle_shooter_game	apps/16/category-vehicle-shooter-game-niagara-outline.svg	
+ic_ip_cat_vehicle_simulation_game	apps/16/category-vehicle-simulation-game-niagara-outline.svg	
+ic_ip_cat_video_player	apps/16/category-video-player-niagara-outline.svg	
+ic_ip_cat_virtual_reality	apps/16/category-virtual-reality-niagara-outline.svg	
+ic_ip_cat_vpn	apps/16/category-vpn-niagara-outline.svg	
+ic_ip_cat_wallpaper	apps/16/category-wallpaper-niagara-outline.svg	
+ic_ip_cat_watch_face	apps/16/category-watch-face-niagara-outline.svg	
+ic_ip_cat_weather	apps/16/category-weather-niagara-outline.svg	
+ic_ip_cat_web_browser	apps/16/category-web-browser-niagara-outline.svg	
+ic_ip_cat_winter_sports_game	apps/16/category-winter-sports-game-niagara-outline.svg	
+ic_ip_cat_word_puzzle_game	apps/16/category-word-puzzle-game-niagara-outline.svg	
+ic_ip_cat_wrestling_game	apps/16/category-wrestling-game-niagara-outline.svg	
+ic_ip_app_org_mozilla_firefox	apps/16/firefox-niagara-outline.svg	org-mozilla-firefox-niagara-outline.svg
+ic_ip_app_org_mozilla_firefox	apps/16/org.mozilla.firefox-niagara-outline.svg	org-mozilla-firefox-niagara-outline.svg
+ic_ip_app_com_spotify_music	apps/16/spotify-niagara-outline.svg	com-spotify-music-niagara-outline.svg
+ic_ip_app_com_spotify_music	apps/16/com.spotify.Client-niagara-outline.svg	com-spotify-music-niagara-outline.svg
+ic_ip_app_com_android_chrome	apps/16/google-chrome-niagara-outline.svg	com-android-chrome-niagara-outline.svg
+ic_ip_app_com_android_chrome	apps/16/chromium-niagara-outline.svg	com-android-chrome-niagara-outline.svg
+ic_ip_app_com_android_chrome	apps/16/com.google.Chrome-niagara-outline.svg	com-android-chrome-niagara-outline.svg
+ic_ip_app_com_anthropic_claude	apps/16/claude-niagara-outline.svg	com-anthropic-claude-niagara-outline.svg
+ic_ip_app_com_anthropic_claude	apps/16/com.anthropic.Claude-niagara-outline.svg	com-anthropic-claude-niagara-outline.svg
+ic_ip_app_com_openai_chatgpt	apps/16/chatgpt-niagara-outline.svg	com-openai-chatgpt-niagara-outline.svg
+ic_ip_app_com_openai_chatgpt	apps/16/com.openai.ChatGPT-niagara-outline.svg	com-openai-chatgpt-niagara-outline.svg
+ic_ip_app_ai_perplexity_app_android	apps/16/perplexity-niagara-outline.svg	ai-perplexity-app-android-niagara-outline.svg
+ic_ip_app_ai_x_grok	apps/16/grok-niagara-outline.svg	ai-x-grok-niagara-outline.svg
+ic_ip_app_com_discord	apps/16/discord-niagara-outline.svg	com-discord-niagara-outline.svg
+ic_ip_app_com_discord	apps/16/com.discordapp.Discord-niagara-outline.svg	com-discord-niagara-outline.svg
+ic_ip_app_org_telegram_messenger	apps/16/telegram-niagara-outline.svg	org-telegram-messenger-niagara-outline.svg
+ic_ip_app_org_telegram_messenger	apps/16/telegram-desktop-niagara-outline.svg	org-telegram-messenger-niagara-outline.svg
+ic_ip_app_org_telegram_messenger	apps/16/org.telegram.desktop-niagara-outline.svg	org-telegram-messenger-niagara-outline.svg
+ic_ip_app_org_thoughtcrime_securesms	apps/16/signal-niagara-outline.svg	org-thoughtcrime-securesms-niagara-outline.svg
+ic_ip_app_org_thoughtcrime_securesms	apps/16/signal-desktop-niagara-outline.svg	org-thoughtcrime-securesms-niagara-outline.svg
+ic_ip_app_org_thoughtcrime_securesms	apps/16/org.signal.Signal-niagara-outline.svg	org-thoughtcrime-securesms-niagara-outline.svg
+ic_ip_app_com_whatsapp	apps/16/whatsapp-niagara-outline.svg	com-whatsapp-niagara-outline.svg
+ic_ip_app_com_slack	apps/16/slack-niagara-outline.svg	com-slack-niagara-outline.svg
+ic_ip_app_com_slack	apps/16/com.slack.Slack-niagara-outline.svg	com-slack-niagara-outline.svg
+ic_ip_app_com_valvesoftware_android_steam_community	apps/16/steam-niagara-outline.svg	com-valvesoftware-android-steam-community-niagara-outline.svg
+ic_ip_app_com_valvesoftware_android_steam_community	apps/16/com.valvesoftware.Steam-niagara-outline.svg	com-valvesoftware-android-steam-community-niagara-outline.svg
+ic_ip_app_com_github_android	apps/16/github-niagara-outline.svg	com-github-android-niagara-outline.svg
+ic_ip_app_md_obsidian	apps/16/obsidian-niagara-outline.svg	md-obsidian-niagara-outline.svg
+ic_ip_app_md_obsidian	apps/16/md.obsidian.Obsidian-niagara-outline.svg	md-obsidian-niagara-outline.svg
+ic_ip_app_com_x8bit_bitwarden	apps/16/bitwarden-niagara-outline.svg	com-x8bit-bitwarden-niagara-outline.svg
+ic_ip_app_com_duckduckgo_mobile_android	apps/16/duckduckgo-niagara-outline.svg	com-duckduckgo-mobile-android-niagara-outline.svg
+ic_ip_app_com_brave_browser	apps/16/brave-browser-niagara-outline.svg	com-brave-browser-niagara-outline.svg
+ic_ip_app_com_brave_browser	apps/16/com.brave.Browser-niagara-outline.svg	com-brave-browser-niagara-outline.svg
+ic_ip_app_com_opera_browser	apps/16/opera-niagara-outline.svg	com-opera-browser-niagara-outline.svg
+ic_ip_app_com_opera_browser	apps/16/com.opera.Opera-niagara-outline.svg	com-opera-browser-niagara-outline.svg
+ic_ip_app_com_vivaldi_browser	apps/16/vivaldi-niagara-outline.svg	com-vivaldi-browser-niagara-outline.svg
+ic_ip_app_com_vivaldi_browser	apps/16/com.vivaldi.Vivaldi-niagara-outline.svg	com-vivaldi-browser-niagara-outline.svg
+ic_ip_app_ch_protonmail_android	apps/16/proton-mail-niagara-outline.svg	ch-protonmail-android-niagara-outline.svg
+ic_ip_app_ch_protonvpn_android	apps/16/protonvpn-niagara-outline.svg	ch-protonvpn-android-niagara-outline.svg
+ic_ip_app_ch_protonvpn_android	apps/16/com.protonvpn.www-niagara-outline.svg	ch-protonvpn-android-niagara-outline.svg
+ic_ip_app_com_microsoft_teams	apps/16/teams-niagara-outline.svg	com-microsoft-teams-niagara-outline.svg
+ic_ip_app_com_microsoft_skydrive	apps/16/onedrive-niagara-outline.svg	com-microsoft-skydrive-niagara-outline.svg
+ic_ip_app_com_microsoft_office_outlook	apps/16/outlook-niagara-outline.svg	com-microsoft-office-outlook-niagara-outline.svg
+ic_ip_app_com_microsoft_emmx	apps/16/microsoft-edge-niagara-outline.svg	com-microsoft-emmx-niagara-outline.svg
+ic_ip_app_com_microsoft_emmx	apps/16/com.microsoft.Edge-niagara-outline.svg	com-microsoft-emmx-niagara-outline.svg
+ic_ip_app_com_google_android_gm	apps/16/gmail-niagara-outline.svg	com-google-android-gm-niagara-outline.svg
+ic_ip_app_com_google_android_youtube	apps/16/youtube-niagara-outline.svg	com-google-android-youtube-niagara-outline.svg
+ic_ip_app_com_google_android_apps_maps	apps/16/google-maps-niagara-outline.svg	com-google-android-apps-maps-niagara-outline.svg
+ic_ip_app_com_google_android_apps_docs	apps/16/google-drive-niagara-outline.svg	com-google-android-apps-docs-niagara-outline.svg
+ic_ip_app_com_google_android_apps_photos	apps/16/google-photos-niagara-outline.svg	com-google-android-apps-photos-niagara-outline.svg
+ic_ip_app_com_google_android_apps_tasks	apps/16/google-tasks-niagara-outline.svg	com-google-android-apps-tasks-niagara-outline.svg
+ic_ip_app_com_google_android_calendar	apps/16/google-calendar-niagara-outline.svg	com-google-android-calendar-niagara-outline.svg
+ic_ip_app_com_google_android_apps_bard	apps/16/gemini-niagara-outline.svg	com-google-android-apps-bard-niagara-outline.svg
+ic_ip_app_com_google_android_apps_translate	apps/16/google-translate-niagara-outline.svg	com-google-android-apps-translate-niagara-outline.svg
+ic_ip_app_com_google_android_keep	apps/16/google-keep-niagara-outline.svg	com-google-android-keep-niagara-outline.svg
+ic_ip_app_com_google_earth	apps/16/google-earth-niagara-outline.svg	com-google-earth-niagara-outline.svg
+ic_ip_app_com_amazon_kindle	apps/16/kindle-niagara-outline.svg	com-amazon-kindle-niagara-outline.svg
+ic_ip_app_com_amazon_mp3	apps/16/amazon-music-niagara-outline.svg	com-amazon-mp3-niagara-outline.svg
+ic_ip_app_com_aspiro_tidal	apps/16/tidal-niagara-outline.svg	com-aspiro-tidal-niagara-outline.svg
+ic_ip_app_com_soundcloud_android	apps/16/soundcloud-niagara-outline.svg	com-soundcloud-android-niagara-outline.svg
+ic_ip_app_com_todoist	apps/16/todoist-niagara-outline.svg	com-todoist-niagara-outline.svg
+ic_ip_app_com_todoist	apps/16/com.todoist.Todoist-niagara-outline.svg	com-todoist-niagara-outline.svg
+ic_ip_app_com_dropbox_android	apps/16/dropbox-niagara-outline.svg	com-dropbox-android-niagara-outline.svg
+ic_ip_app_com_dropbox_android	apps/16/com.dropbox.Client-niagara-outline.svg	com-dropbox-android-niagara-outline.svg
+ic_ip_app_com_evernote	apps/16/evernote-niagara-outline.svg	com-evernote-niagara-outline.svg
+ic_ip_app_com_facebook_katana	apps/16/facebook-niagara-outline.svg	com-facebook-katana-niagara-outline.svg
+ic_ip_app_com_instagram_android	apps/16/instagram-niagara-outline.svg	com-instagram-android-niagara-outline.svg
+ic_ip_app_com_twitter_android	apps/16/twitter-niagara-outline.svg	com-twitter-android-niagara-outline.svg
+ic_ip_app_com_reddit_frontpage	apps/16/reddit-niagara-outline.svg	com-reddit-frontpage-niagara-outline.svg
+ic_ip_app_com_tumblr	apps/16/tumblr-niagara-outline.svg	com-tumblr-niagara-outline.svg
+ic_ip_app_com_pinterest	apps/16/pinterest-niagara-outline.svg	com-pinterest-niagara-outline.svg
+ic_ip_app_com_linkedin_android	apps/16/linkedin-niagara-outline.svg	com-linkedin-android-niagara-outline.svg
+ic_ip_app_com_skype_raider	apps/16/skype-niagara-outline.svg	com-skype-raider-niagara-outline.svg
+ic_ip_app_com_viber_voip	apps/16/viber-niagara-outline.svg	com-viber-voip-niagara-outline.svg
+ic_ip_app_com_zhiliaoapp_musically	apps/16/tiktok-niagara-outline.svg	com-zhiliaoapp-musically-niagara-outline.svg
+ic_ip_app_com_netflix_mediaclient	apps/16/netflix-niagara-outline.svg	com-netflix-mediaclient-niagara-outline.svg
+ic_ip_app_org_videolan_vlc	apps/16/vlc-niagara-outline.svg	org-videolan-vlc-niagara-outline.svg
+ic_ip_app_org_videolan_vlc	apps/16/org.videolan.VLC-niagara-outline.svg	org-videolan-vlc-niagara-outline.svg
+ic_ip_app_org_kde_kdeconnect_tp	apps/16/kdeconnect-niagara-outline.svg	org-kde-kdeconnect-tp-niagara-outline.svg
+ic_ip_app_org_kde_kdeconnect_tp	apps/16/org.kde.kdeconnect-niagara-outline.svg	org-kde-kdeconnect-tp-niagara-outline.svg
+ic_ip_app_com_termux	apps/16/termux-niagara-outline.svg	com-termux-niagara-outline.svg
+ic_ip_app_bitpit_launcher	apps/16/niagara-launcher-niagara-outline.svg	bitpit-launcher-niagara-outline.svg
+ic_ip_app_com_kiwibrowser_browser	apps/16/kiwi-browser-niagara-outline.svg	com-kiwibrowser-browser-niagara-outline.svg
+ic_ip_act_add	actions/16/list-add-niagara-outline.svg	add-niagara-outline.svg
+ic_ip_act_alert	actions/16/dialog-warning-niagara-outline.svg	alert-niagara-outline.svg
+ic_ip_act_arrow_back	actions/16/go-previous-niagara-outline.svg	arrow-back-niagara-outline.svg
+ic_ip_act_arrow_right	actions/16/go-next-niagara-outline.svg	arrow-right-niagara-outline.svg
+ic_ip_act_arrow_upward	actions/16/go-up-niagara-outline.svg	arrow-upward-niagara-outline.svg
+ic_ip_act_autorenew	actions/16/view-refresh-niagara-outline.svg	autorenew-niagara-outline.svg
+ic_ip_act_bell	actions/16/preferences-system-notifications-niagara-outline.svg	bell-niagara-outline.svg
+ic_ip_act_clear	actions/16/edit-clear-niagara-outline.svg	clear-niagara-outline.svg
+ic_ip_act_copy	actions/16/edit-copy-niagara-outline.svg	copy-niagara-outline.svg
+ic_ip_act_crop	actions/16/transform-crop-niagara-outline.svg	crop-niagara-outline.svg
+ic_ip_act_delete	actions/16/edit-delete-niagara-outline.svg	delete-niagara-outline.svg
+ic_ip_act_done	actions/16/dialog-ok-niagara-outline.svg	done-niagara-outline.svg
+ic_ip_act_download	actions/16/document-save-niagara-outline.svg	download-niagara-outline.svg
+ic_ip_act_edit	actions/16/document-edit-niagara-outline.svg	edit-niagara-outline.svg
+ic_ip_act_expand_less	actions/16/pan-up-niagara-outline.svg	expand-less-niagara-outline.svg
+ic_ip_act_expand_more	actions/16/pan-down-niagara-outline.svg	expand-more-niagara-outline.svg
+ic_ip_act_eye	actions/16/view-visible-niagara-outline.svg	eye-niagara-outline.svg
+ic_ip_act_eye_crossed	actions/16/view-hidden-niagara-outline.svg	eye-crossed-niagara-outline.svg
+ic_ip_act_floppy_disk	actions/16/document-save-as-niagara-outline.svg	floppy-disk-niagara-outline.svg
+ic_ip_act_folder_create	actions/16/folder-new-niagara-outline.svg	folder-create-niagara-outline.svg
+ic_ip_act_help	actions/16/help-browser-niagara-outline.svg	help-niagara-outline.svg
+ic_ip_act_home	actions/16/go-home-niagara-outline.svg	home-niagara-outline.svg
+ic_ip_act_info	actions/16/dialog-information-niagara-outline.svg	info-niagara-outline.svg
+ic_ip_act_launch	actions/16/document-open-niagara-outline.svg	launch-niagara-outline.svg
+ic_ip_act_mail	actions/16/mail-message-new-niagara-outline.svg	mail-niagara-outline.svg
+ic_ip_act_search	actions/16/system-search-niagara-outline.svg	search-niagara-outline.svg
+ic_ip_act_settings	actions/16/preferences-system-niagara-outline.svg	settings-niagara-outline.svg
+ic_ip_act_share	actions/16/document-share-niagara-outline.svg	share-niagara-outline.svg

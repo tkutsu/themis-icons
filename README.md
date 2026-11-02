@@ -22,6 +22,10 @@ Themis started as a merge of three monochrome sets and has been patched by hand 
 
 A few icons, such as `apps/16/eden.svg` and `panel/16/system-search-sf.svg`, were drawn for Themis.
 
+## Niagara Outline variants
+
+Icons imported from the phone's Niagara Launcher are available under names ending in `-niagara-outline`, such as `firefox-niagara-outline` and `edit-copy-niagara-outline`. Existing icons are preserved. See [NIAGARA.md](NIAGARA.md) for folders, naming, source details, and the imported artwork's license status. The full name mapping is in [niagara-outline.tsv](niagara-outline.tsv).
+
 ## License
 
-Themis is released under the GNU General Public License v3.0, the license of the sets it is built from. See [COPYING](COPYING) for the full text.
+Themis is released under the GNU General Public License v3.0, the license of the sets it is built from. See [COPYING](COPYING) for the full text. The extracted Niagara artwork is excluded from this license claim; see [NIAGARA.md](NIAGARA.md).
